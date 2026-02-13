@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Region,Salesperson,Product,Category,Quantity,Unit_Price,Total_Sales,Payment_Mode
+1001,15-01-2025,North,Priya,Printer,Electronics,1,15000,15000,Cash
+1002,03-06-2025,West,Rahul,Mobile,Electronics,8,20000,160000,Credit Card
+1003,25-06-2025,East,Priya,Headphones,Electronics,9,1500,13500,Credit Card
+1004,16-03-2025,West,Neha,Chair,Furniture,6,2500,15000,Cash
+1005,29-04-2025,South,Simran,Laptop,Electronics,10,55000,550000,UPI
+1006,19-02-2025,West,Priya,Laptop,Electronics,10,55000,550000,Cash
+1007,02-01-2025,West,Karan,Printer,Electronics,3,15000,45000,Cash
+1008,27-02-2025,East,Rahul,Washing Machine,Appliances,2,35000,70000,UPI
+1009,15-03-2025,East,Karan,Refrigerator,Appliances,7,45000,315000,UPI
+1010,18-05-2025,East,Rahul,Washing Machine,Appliances,3,35000,105000,UPI
+1011,27-03-2025,East,Simran,Laptop,Electronics,10,55000,550000,Credit Card
+1012,23-01-2025,South,Rahul,Laptop,Electronics,1,55000,55000,Credit Card
+1013,07-02-2025,South,Simran,Mobile,Electronics,1,20000,20000,UPI
+1014,28-05-2025,South,Simran,Printer,Electronics,7,15000,105000,UPI
+1015,11-02-2025,East,Amit,Washing Machine,Appliances,7,35000,245000,Credit Card
+1016,29-05-2025,West,Karan,Microwave,Appliances,1,12000,12000,UPI
+1017,29-03-2025,West,Simran,Microwave,Appliances,5,12000,60000,Credit Card
+1018,19-04-2025,South,Karan,Mobile,Electronics,4,20000,80000,Cash
+1019,11-06-2025,North,Amit,Sofa,Furniture,6,30000,180000,Cash
+1020,11-03-2025,East,Simran,Microwave,Appliances,1,12000,12000,Cash
+1021,29-06-2025,West,Priya,Table,Furniture,2,7000,14000,Cash
+1022,27-04-2025,South,Rahul,Table,Furniture,2,7000,14000,Cash
+1023,12-04-2025,North,Simran,Refrigerator,Appliances,1,45000,45000,UPI
+1024,04-04-2025,North,Neha,Printer,Electronics,1,15000,15000,Cash
+1025,16-05-2025,North,Priya,Chair,Furniture,3,2500,7500,Credit Card
+1026,07-06-2025,West,Amit,Printer,Electronics,1,15000,15000,Credit Card
+1027,25-06-2025,East,Amit,Headphones,Electronics,3,1500,4500,Credit Card
+1028,24-06-2025,West,Karan,Laptop,Electronics,6,55000,330000,Credit Card
+1029,08-06-2025,North,Priya,Mobile,Electronics,8,20000,160000,Credit Card
+1030,01-03-2025,South,Amit,Refrigerator,Appliances,4,45000,180000,UPI
+1031,21-05-2025,North,Karan,Printer,Electronics,5,15000,75000,Credit Card
+1032,07-01-2025,West,Amit,Printer,Electronics,4,15000,60000,Cash
+1033,04-06-2025,West,Karan,Microwave,Appliances,4,12000,48000,Credit Card
+1034,27-06-2025,East,Karan,Chair,Furniture,4,2500,10000,Credit Card
+1035,02-04-2025,West,Simran,Laptop,Electronics,9,55000,495000,Cash
+1036,14-04-2025,North,Priya,Microwave,Appliances,9,12000,108000,UPI
+1037,05-06-2025,South,Karan,Washing Machine,Appliances,9,35000,315000,Cash
+1038,13-03-2025,East,Rahul,Chair,Furniture,3,2500,7500,UPI
+1039,02-06-2025,South,Amit,Printer,Electronics,5,15000,75000,UPI
+1040,05-05-2025,East,Priya,Printer,Electronics,9,15000,135000,Cash
+1041,26-02-2025,South,Simran,Headphones,Electronics,4,1500,6000,Credit Card
+1042,17-04-2025,North,Amit,Table,Furniture,9,7000,63000,Credit Card
+1043,19-02-2025,North,Rahul,Sofa,Furniture,5,30000,150000,Cash
+1044,06-01-2025,North,Priya,Refrigerator,Appliances,4,45000,180000,Credit Card
+1045,01-06-2025,East,Neha,Laptop,Electronics,5,55000,275000,UPI
+1046,12-03-2025,East,Neha,Washing Machine,Appliances,2,35000,70000,Credit Card
+1047,08-03-2025,South,Rahul,Mobile,Electronics,5,20000,100000,UPI
+1048,15-05-2025,West,Rahul,Washing Machine,Appliances,6,35000,210000,UPI
+1049,30-05-2025,North,Simran,Chair,Furniture,8,2500,20000,UPI
+1050,12-05-2025,West,Karan,Washing Machine,Appliances,2,35000,70000,Cash
+1051,13-06-2025,West,Amit,Mobile,Electronics,4,20000,80000,Cash
+1052,26-04-2025,West,Priya,Printer,Electronics,9,15000,135000,UPI
+1053,31-01-2025,East,Priya,Laptop,Electronics,4,55000,220000,UPI
+1054,24-05-2025,North,Rahul,Printer,Electronics,8,15000,120000,Credit Card
+1055,08-02-2025,North,Amit,Laptop,Electronics,8,55000,440000,Credit Card
+1056,01-04-2025,South,Neha,Printer,Electronics,2,15000,30000,Credit Card
+1057,15-05-2025,North,Simran,Sofa,Furniture,1,30000,30000,UPI
+1058,03-05-2025,West,Simran,Microwave,Appliances,5,12000,60000,UPI
+1059,05-01-2025,North,Rahul,Refrigerator,Appliances,7,45000,315000,Credit Card
+1060,31-03-2025,South,Neha,Chair,Furniture,9,2500,22500,Credit Card
+1061,21-04-2025,West,Rahul,Table,Furniture,5,7000,35000,Cash
+1062,22-05-2025,East,Simran,Laptop,Electronics,10,55000,550000,Credit Card
+1063,24-03-2025,East,Neha,Headphones,Electronics,7,1500,10500,Credit Card
+1064,18-02-2025,East,Amit,Washing Machine,Appliances,7,35000,245000,Credit Card
+1065,14-03-2025,North,Simran,Laptop,Electronics,2,55000,110000,UPI
+1066,19-06-2025,East,Priya,Refrigerator,Appliances,7,45000,315000,Cash
+1067,14-02-2025,North,Rahul,Microwave,Appliances,10,12000,120000,Credit Card
+1068,21-01-2025,South,Karan,Chair,Furniture,2,2500,5000,Credit Card
+1069,14-06-2025,West,Simran,Refrigerator,Appliances,3,45000,135000,Cash
+1070,19-02-2025,East,Neha,Microwave,Appliances,4,12000,48000,UPI
+1071,06-06-2025,South,Amit,Headphones,Electronics,8,1500,12000,Cash
+1072,25-02-2025,North,Simran,Headphones,Electronics,10,1500,15000,Credit Card
+1073,01-06-2025,East,Karan,Refrigerator,Appliances,7,45000,315000,UPI
+1074,19-03-2025,North,Neha,Refrigerator,Appliances,8,45000,360000,Credit Card
+1075,26-06-2025,South,Neha,Chair,Furniture,10,2500,25000,Credit Card
+1076,05-05-2025,South,Rahul,Printer,Electronics,10,15000,150000,Credit Card
+1077,03-04-2025,East,Karan,Sofa,Furniture,6,30000,180000,Cash
+1078,02-03-2025,South,Priya,Table,Furniture,3,7000,21000,Cash
+1079,04-04-2025,North,Karan,Refrigerator,Appliances,9,45000,405000,Credit Card
+1080,26-06-2025,West,Rahul,Laptop,Electronics,3,55000,165000,Credit Card
+1081,14-02-2025,North,Neha,Printer,Electronics,9,15000,135000,UPI
+1082,22-03-2025,North,Rahul,Laptop,Electronics,4,55000,220000,Credit Card
+1083,21-06-2025,South,Simran,Printer,Electronics,4,15000,60000,Cash
+1084,02-06-2025,South,Neha,Table,Furniture,7,7000,49000,UPI
+1085,23-01-2025,North,Neha,Microwave,Appliances,6,12000,72000,Cash
+1086,07-02-2025,West,Simran,Washing Machine,Appliances,9,35000,315000,Credit Card
+1087,16-01-2025,West,Rahul,Refrigerator,Appliances,4,45000,180000,Cash
+1088,04-03-2025,West,Neha,Laptop,Electronics,3,55000,165000,UPI
+1089,29-04-2025,South,Rahul,Printer,Electronics,6,15000,90000,UPI
+1090,12-01-2025,North,Priya,Table,Furniture,3,7000,21000,Cash
+1091,05-03-2025,North,Rahul,Refrigerator,Appliances,5,45000,225000,Cash
+1092,14-01-2025,West,Simran,Laptop,Electronics,7,55000,385000,UPI
+1093,09-06-2025,West,Amit,Microwave,Appliances,7,12000,84000,Cash
+1094,22-05-2025,North,Simran,Refrigerator,Appliances,1,45000,45000,Cash
+1095,14-04-2025,South,Rahul,Refrigerator,Appliances,8,45000,360000,Cash
+1096,29-04-2025,West,Priya,Headphones,Electronics,9,1500,13500,Credit Card
+1097,10-06-2025,North,Neha,Laptop,Electronics,6,55000,330000,UPI
+1098,24-05-2025,East,Simran,Laptop,Electronics,2,55000,110000,Cash
+1099,18-01-2025,North,Neha,Printer,Electronics,6,15000,90000,Credit Card
+1100,18-04-2025,South,Priya,Headphones,Electronics,10,1500,15000,Credit Card
