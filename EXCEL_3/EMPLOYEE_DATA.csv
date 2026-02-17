@@ -1,26 +1,41 @@
-Sum of Salary,Marital_Status,Gender,,,,,
-,Married,,Married Total,Single,,Single Total,Grand Total
-Months (Join_Date),Female,Male,,Female,Male,,
-Jan,,1870000,1870000,1010000,,1010000,2880000
-Feb,1410000,,1410000,300000,,300000,1710000
-Mar,1600000,990000,2590000,520000,,520000,3110000
-Apr,910000,1050000,1960000,600000,320000,920000,2880000
-May,,1200000,1200000,,500000,500000,1700000
-Jun,970000,1810000,2780000,750000,650000,1400000,4180000
-Jul,,1810000,1810000,,680000,680000,2490000
-Aug,,1020000,1020000,580000,480000,1060000,2080000
-Sep,1750000,780000,2530000,610000,,610000,3140000
-Oct,760000,820000,1580000,,,,1580000
-Nov,,950000,950000,610000,830000,1440000,2390000
-Dec,910000,980000,1890000,620000,,620000,2510000
-Grand Total,8310000,13280000,21590000,5600000,3460000,9060000,30650000
-,,,,,,,
-Row Labels,Count of Department,Sum of Salary,,,,,
-Bangalore,6,3140000,,,,,
-Chennai,6,4900000,,,,,
-Delhi,6,4710000,,,,,
-Hyderabad,6,4930000,,,,,
-Kolkata,4,3260000,,,,,
-Mumbai,6,4750000,,,,,
-Pune,6,4960000,,,,,
-Grand Total,40,30650000,,,,,
+Emp_ID,First_Name,Last_Name,Gender,Age,Department,Job_Role,Location,Join_Date,Experience_Years,Employment_Type,Salary,Bonus,Performance_Rating,Overtime_Hours,Training_Hours,Leave_Taken,Marital_Status,Education_Level,Promotion_Last_Year,Attrition
+E001,Rahul,Sharma,Male,29,IT,Data Analyst,Mumbai,2019-06-12,4,Full-Time,3000000,50000,4,12,30,5,Single,Graduate,No,No
+E002,Priya,Verma,Female,32,HR,HR Manager,Delhi,2017-03-20,7,Full-Time,850000,70000,5,5,25,7,Married,Postgraduate,Yes,No
+E003,Amit,Patel,Male,26,Finance,Accountant,Bangalore,2021-08-15,2,Full-Time,480000,30000,3,8,15,4,Single,Graduate,No,No
+E004,Neha,Singh,Female,35,Sales,Sales Executive,Hyderabad,2016-02-11,9,Full-Time,720000,90000,4,20,18,10,Married,Graduate,Yes,No
+E005,Arjun,Kumar,Male,30,IT,Software Engineer,Surat,2018-09-05,5,Full-Time,780000,60000,4,15,40,6,Married,Graduate,No,No
+E006,Simran,Kaur,Female,28,Marketing,Marketing Analyst,Chennai,2020-01-10,3,Full-Time,540000,35000,3,10,22,8,Single,Graduate,No,Yes
+E007,Rohit,Yadav,Male,40,Operations,Operations Manager,Kolkata,2014-11-25,12,Full-Time,950000,80000,5,6,20,12,Married,Postgraduate,Yes,No
+E008,Anjali,Mehta,Female,27,IT,Data Engineer,Mumbai,2022-04-18,1,Contract,600000,25000,4,18,35,3,Single,Graduate,No,No
+E009,Karan,Malhotra,Male,31,Sales,Sales Manager,Delhi,2018-07-30,5,Full-Time,880000,100000,5,22,16,9,Married,MBA,Yes,No
+E010,Pooja,Reddy,Female,24,HR,HR Executive,Bangalore,2023-02-01,1,Intern,300000,10000,3,4,12,2,Single,Graduate,No,Yes
+E011,Vikram,Joshi,Male,34,Finance,Financial Analyst,Surat,2015-10-21,8,Full-Time,820000,75000,4,9,28,7,Married,Postgraduate,Yes,No
+E012,Divya,Nair,Female,29,IT,UI Designer,Chennai,2019-12-05,4,Full-Time,620000,45000,4,14,26,5,Single,Graduate,No,No
+E013,Manish,Agarwal,Male,38,Operations,Supply Chain Manager,Hyderabad,2013-06-14,13,Full-Time,990000,85000,5,11,19,11,Married,MBA,Yes,No
+E014,Sneha,Kapoor,Female,33,Marketing,Brand Manager,Mumbai,2017-09-09,6,Full-Time,870000,78000,5,13,30,8,Married,Postgraduate,Yes,No
+E015,Akash,Gupta,Male,25,IT,Support Engineer,Delhi,2022-05-22,1,Full-Time,500000,20000,3,17,21,4,Single,Graduate,No,Yes
+E016,Ritu,Saxena,Female,37,Finance,Senior Accountant,Kolkata,2014-04-18,11,Full-Time,910000,88000,5,6,24,9,Married,Postgraduate,Yes,No
+E017,Sachin,Thakur,Male,28,Sales,Sales Executive,Surat,2020-07-12,3,Full-Time,680000,72000,4,19,15,6,Single,Graduate,No,No
+E018,Tanya,Bhatia,Female,30,Marketing,Digital Marketer,Bangalore,2018-03-03,5,Full-Time,750000,65000,4,16,27,7,Married,Graduate,No,No
+E019,Nikhil,Chopra,Male,36,Operations,Logistics Head,Chennai,2012-08-19,14,Full-Time,1020000,95000,5,7,18,10,Married,MBA,Yes,No
+E020,Meera,Iyer,Female,27,IT,QA Engineer,Hyderabad,2021-11-11,2,Full-Time,610000,32000,4,12,23,5,Single,Graduate,No,No
+E021,Harsh,Tripathi,Male,31,IT,Backend Developer,Bangalore,2018-06-25,6,Full-Time,820000,55000,4,14,32,6,Married,Graduate,No,No
+E022,Shreya,Mishra,Female,29,HR,Talent Acquisition Specialist,Mumbai,2020-09-14,4,Full-Time,610000,30000,4,6,20,5,Single,Postgraduate,No,No
+E023,Deepak,Shah,Male,42,Finance,Finance Manager,Delhi,2013-01-18,15,Full-Time,1150000,120000,5,8,18,12,Married,MBA,Yes,No
+E024,Ishita,Ghosh,Female,26,Marketing,Content Strategist,Kolkata,2021-03-09,3,Full-Time,520000,25000,3,11,28,4,Single,Graduate,No,Yes
+E025,Varun,Sethi,Male,33,Sales,Regional Sales Manager,Hyderabad,2017-07-11,8,Full-Time,930000,110000,5,21,16,8,Married,MBA,Yes,No
+E026,Kritika,Arora,Female,30,IT,Frontend Developer,Surat,2019-10-22,5,Full-Time,760000,48000,4,13,35,6,Married,Graduate,No,No
+E027,Sandeep,Rao,Male,39,Operations,Plant Supervisor,Chennai,2012-12-05,13,Full-Time,980000,90000,5,7,19,11,Married,Graduate,Yes,No
+E028,Naina,Chaudhary,Female,28,Finance,Junior Accountant,Bangalore,2022-01-17,2,Full-Time,470000,20000,3,9,22,5,Single,Graduate,No,No
+E029,Aditya,Banerjee,Male,35,IT,Project Manager,Mumbai,2016-04-30,9,Full-Time,1050000,95000,5,10,40,9,Married,MBA,Yes,No
+E030,Komal,Jain,Female,27,Sales,Sales Coordinator,Delhi,2021-08-08,3,Full-Time,580000,42000,4,18,17,6,Single,Graduate,No,Yes
+E031,Prakash,Pillai,Male,41,Operations,Operations Head,Surat,2011-05-16,15,Full-Time,1200000,130000,5,6,15,13,Married,Postgraduate,Yes,No
+E032,Aarti,Deshmukh,Female,32,Marketing,SEO Specialist,Hyderabad,2018-02-19,7,Full-Time,690000,50000,4,15,30,7,Married,Graduate,No,No
+E033,Manav,Khanna,Male,29,IT,Cloud Engineer,Chennai,2020-11-23,4,Full-Time,830000,60000,4,16,36,5,Single,Graduate,No,No
+E034,Radhika,Singhal,Female,34,HR,HR Business Partner,Kolkata,2015-09-27,9,Full-Time,880000,72000,5,5,24,8,Married,Postgraduate,Yes,No
+E035,Kunal,Bhardwaj,Male,25,Marketing,Social Media Executive,Bangalore,2023-04-12,1,Intern,320000,15000,3,12,18,3,Single,Graduate,No,Yes
+E036,Payal,Saxena,Female,37,Finance,Tax Consultant,Mumbai,2014-06-06,11,Full-Time,970000,85000,5,7,21,10,Married,MBA,Yes,No
+E037,Abhishek,Tiwari,Male,30,Sales,Area Sales Executive,Surat,2019-01-15,5,Full-Time,720000,68000,4,20,19,6,Married,Graduate,No,No
+E038,Sonali,Patankar,Female,28,IT,DevOps Engineer,Delhi,2021-06-29,3,Contract,750000,40000,4,17,33,5,Single,Graduate,No,No
+E039,Gaurav,Srivastava,Male,36,Operations,Warehouse Manager,Hyderabad,2013-03-10,12,Full-Time,990000,92000,5,9,16,11,Married,Graduate,Yes,No
+E040,Megha,Thomas,Female,31,Marketing,Marketing Manager,Chennai,2017-12-21,8,Full-Time,910000,88000,5,14,29,7,Married,MBA,Yes,No
