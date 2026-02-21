@@ -1,0 +1,97 @@
+OrderId,Order Date,Customer Name,Country,State,City,Region,Sales,Profit
+KL-2018-231012,15-01-2018,Riya Sharma,India,Maharashtra,Mumbai,West,12500,2400
+KL-2018-452178,22-03-2018,Arjun Mehta,India,Delhi,New Delhi,North,9800,1500
+KL-2019-118945,10-02-2019,Sneha Verma,India,Karnataka,Bangalore,South,21500,4200
+KL-2019-775421,18-06-2019,Rohit Singh,India,Uttar Pradesh,Lucknow,North,14300,2100
+KL-2020-342190,12-01-2020,Neha Patel,India,Gujarat,Ahmedabad,West,16700,3000
+KL-2020-908712,25-09-2020,Vikram Joshi,India,Rajasthan,Jaipur,North,8900,1200
+KL-2021-561234,14-04-2021,Pooja Nair,India,Kerala,Kochi,South,15400,2700
+KL-2021-882301,30-11-2021,Karan Malhotra,India,Punjab,Chandigarh,North,13200,2400
+KL-2022-112345,05-02-2022,Ananya Gupta,India,West Bengal,Kolkata,East,17600,3500
+KL-2022-778899,19-07-2022,Rahul Kapoor,India,Haryana,Gurgaon,North,22000,5000
+KL-2023-445566,08-03-2023,Meera Iyer,India,Tamil Nadu,Chennai,South,19500,4100
+KL-2023-990011,21-10-2023,Aditya Rao,India,Telangana,Hyderabad,South,16800,2900
+KL-2024-223344,17-01-2024,Simran Kaur,India,Punjab,Ludhiana,North,9200,1300
+KL-2024-556677,28-05-2024,Amit Tiwari,India,Uttar Pradesh,Kanpur,North,14600,2600
+KL-2025-101112,11-02-2025,Kavya Reddy,India,Andhra Pradesh,Vijayawada,South,18800,3700
+KL-2025-202500,15-06-2025,Saurabh Jain,India,Madhya Pradesh,Indore,Central,17400,3400
+KL-2018-334455,12-05-2018,Ankit Sharma,India,Delhi,New Delhi,North,14500,2600
+KL-2018-778812,19-08-2018,Priya Nair,India,Kerala,Kochi,South,11200,1800
+KL-2019-120987,25-01-2019,Rahul Verma,India,Uttar Pradesh,Noida,North,16800,3100
+KL-2019-654321,14-09-2019,Sakshi Gupta,India,Maharashtra,Pune,West,18900,3500
+KL-2020-345678,18-02-2020,Manoj Yadav,India,Bihar,Patna,East,9800,1400
+KL-2020-987654,07-11-2020,Divya Iyer,India,Tamil Nadu,Chennai,South,21000,4800
+KL-2021-456123,10-03-2021,Kunal Mehta,India,Gujarat,Ahmedabad,West,15400,2900
+KL-2021-789321,21-12-2021,Neha Singh,India,Rajasthan,Jaipur,North,13200,2300
+KL-2022-112233,09-04-2022,Arpit Jain,India,Madhya Pradesh,Indore,Central,17600,3400
+KL-2022-445577,15-07-2022,Megha Das,India,West Bengal,Kolkata,East,14900,2700
+KL-2022-998877,28-10-2022,Vivek Kapoor,India,Haryana,Gurgaon,North,22000,5100
+KL-2023-223311,16-01-2023,Aditi Rao,India,Telangana,Hyderabad,South,19500,4200
+KL-2023-667788,20-05-2023,Rohan Malhotra,India,Punjab,Amritsar,North,11800,2000
+KL-2023-889900,11-09-2023,Shreya Kulkarni,India,Karnataka,Bangalore,South,23400,5600
+KL-2024-101213,05-02-2024,Nitin Arora,India,Himachal Pradesh,Shimla,North,8700,1200
+KL-2024-141516,18-04-2024,Kritika Sharma,India,Uttarakhand,Dehradun,North,13900,2500
+KL-2024-171819,22-06-2024,Harsh Patel,India,Gujarat,Surat,West,16200,3000
+KL-2024-202122,30-08-2024,Pallavi Reddy,India,Andhra Pradesh,Vijayawada,South,17800,3300
+KL-2024-232425,14-10-2024,Abhishek Tiwari,India,Uttar Pradesh,Lucknow,North,15200,2800
+KL-2025-262728,09-01-2025,Sanya Kapoor,India,Delhi,New Delhi,North,20500,4700
+KL-2025-293031,17-02-2025,Ritesh Dubey,India,Madhya Pradesh,Bhopal,Central,16400,3100
+KL-2025-323334,26-03-2025,Isha Menon,India,Kerala,Trivandrum,South,14300,2600
+KL-2025-353637,12-04-2025,Akash Bansal,India,Haryana,Faridabad,North,19000,4000
+KL-2025-383940,19-05-2025,Swati Mishra,India,Odisha,Bhubaneswar,East,12700,2200
+KL-2025-414243,07-06-2025,Tarun Chawla,India,Maharashtra,Nagpur,West,17100,3400
+KL-2025-444546,15-07-2025,Rashmi Sinha,India,Bihar,Gaya,East,9100,1300
+KL-2025-474849,21-08-2025,Aditya Saxena,India,Rajasthan,Udaipur,North,15800,3000
+KL-2025-505152,05-09-2025,Komal Verma,India,Karnataka,Mysore,South,13600,2400
+KL-2025-535455,11-10-2025,Varun Nair,India,Tamil Nadu,Coimbatore,South,22400,5200
+KL-2025-565758,23-11-2025,Preeti Joshi,India,Madhya Pradesh,Gwalior,Central,14800,2700
+KL-2018-601001,14-02-2018,Alok Mishra,India,Uttar Pradesh,Varanasi,North,13200,2100
+KL-2018-601002,09-04-2018,Meena Pillai,India,Kerala,Kozhikode,South,15400,2800
+KL-2018-601003,21-07-2018,Rajat Khanna,India,Delhi,New Delhi,North,9800,1500
+KL-2018-601004,30-10-2018,Priyanka Yadav,India,Bihar,Patna,East,8700,1200
+KL-2019-601005,11-01-2019,Sachin Rao,India,Karnataka,Bangalore,South,21000,4300
+KL-2019-601006,19-03-2019,Kajal Sharma,India,Haryana,Gurgaon,North,17600,3200
+KL-2019-601007,25-06-2019,Deepanshu Jain,India,Madhya Pradesh,Indore,Central,14900,2600
+KL-2019-601008,13-08-2019,Ritu Kapoor,India,Punjab,Ludhiana,North,12500,2000
+KL-2019-601009,05-11-2019,Vishal Menon,India,Tamil Nadu,Chennai,South,19800,3900
+KL-2020-601010,17-02-2020,Nandini Gupta,India,West Bengal,Kolkata,East,14300,2400
+KL-2020-601012,14-07-2020,Prerna Singh,India,Rajasthan,Jaipur,North,16200,3000
+KL-2020-601013,22-09-2020,Siddharth Patel,India,Gujarat,Surat,West,17400,3300
+KL-2020-601014,18-12-2020,Anjali Verma,India,Uttar Pradesh,Kanpur,North,11800,1900
+KL-2021-601015,27-01-2021,Rahul Tiwari,India,Madhya Pradesh,Bhopal,Central,18500,3700
+KL-2021-601016,15-03-2021,Shraddha Nair,India,Kerala,Trivandrum,South,14700,2600
+KL-2021-601018,09-08-2021,Pooja Saxena,India,Uttarakhand,Dehradun,North,12900,2100
+KL-2021-601019,11-11-2021,Rakesh Yadav,India,Bihar,Gaya,East,8900,1200
+KL-2022-601020,03-02-2022,Simran Arora,India,Punjab,Amritsar,North,20500,4600
+KL-2022-601021,17-04-2022,Harshit Jain,India,Maharashtra,Mumbai,West,23100,5600
+KL-2022-601022,29-06-2022,Neetu Sharma,India,Himachal Pradesh,Shimla,North,9900,1500
+KL-2022-601023,07-09-2022,Akshay Iyer,India,Tamil Nadu,Coimbatore,South,17800,3400
+KL-2022-601024,20-12-2022,Komal Bansal,India,Haryana,Faridabad,North,13600,2400
+KL-2023-601025,18-01-2023,Sagar Kulkarni,India,Karnataka,Mysore,South,14200,2500
+KL-2023-601026,30-03-2023,Divyansh Gupta,India,Uttar Pradesh,Lucknow,North,16700,3100
+KL-2023-601028,05-07-2023,Rohini Das,India,Odisha,Cuttack,East,10800,1700
+KL-2023-601029,16-09-2023,Manav Tiwari,India,Madhya Pradesh,Jabalpur,Central,15500,2800
+KL-2023-601030,23-11-2023,Shalini Mehta,India,Gujarat,Ahmedabad,West,19400,4200
+KL-2024-601031,08-01-2024,Aryan Sharma,India,Rajasthan,Udaipur,North,17300,3300
+KL-2024-601032,14-02-2024,Neha Kulshreshtha,India,Uttar Pradesh,Agra,North,12400,2100
+KL-2024-601033,27-03-2024,Tanmay Verma,India,West Bengal,Siliguri,East,11800,2000
+KL-2024-601034,19-05-2024,Shreya Iyer,India,Tamil Nadu,Chennai,South,20900,4700
+KL-2024-601035,11-07-2024,Abhinav Singh,India,Haryana,Gurgaon,North,18200,3600
+KL-2024-601036,24-08-2024,Pallak Jain,India,Maharashtra,Pune,West,14900,2700
+KL-2024-601037,30-09-2024,Ritik Arora,India,Punjab,Chandigarh,North,13700,2300
+KL-2024-601038,12-11-2024,Aastha Reddy,India,Telangana,Hyderabad,South,22600,5300
+KL-2025-601039,21-01-2025,Mohit Dubey,India,Madhya Pradesh,Gwalior,Central,15800,3000
+KL-2025-601040,10-02-2025,Sonia Menon,India,Kerala,Kochi,South,17100,3200
+KL-2025-601041,18-03-2025,Vivek Kapoor,India,Delhi,New Delhi,North,24000,5800
+KL-2025-601042,26-04-2025,Nikita Sharma,India,Uttar Pradesh,Noida,North,19000,4000
+KL-2025-601043,09-05-2025,Rajeev Nair,India,Karnataka,Bangalore,South,21400,4900
+KL-2025-601044,15-06-2025,Payal Gupta,India,Bihar,Patna,East,9700,1400
+KL-2025-601045,22-07-2025,Keshav Mishra,India,Odisha,Bhubaneswar,East,13500,2300
+KL-2025-601046,17-08-2025,Ritika Arora,India,Rajasthan,Jaipur,North,16200,3000
+KL-2025-601047,03-09-2025,Sahil Mehta,India,Gujarat,Surat,West,18000,3600
+KL-2025-601048,14-10-2025,Ananya Kapoor,India,Himachal Pradesh,Shimla,North,9200,1300
+KL-2025-601049,29-11-2025,Rohan Das,India,West Bengal,Kolkata,East,20500,4800
+KL-2025-601050,05-12-2025,Garima Yadav,India,Uttar Pradesh,Varanasi,North,14700,2600
+KL-2025-601051,12-12-2025,Tejas Patel,India,Gujarat,Ahmedabad,West,19900,4300
+KL-2025-601052,20-12-2025,Muskan Sharma,India,Haryana,Faridabad,North,16000,2900
+KL-2025-601053,28-12-2025,Adarsh Singh,India,Madhya Pradesh,Indore,Central,17500,3400
