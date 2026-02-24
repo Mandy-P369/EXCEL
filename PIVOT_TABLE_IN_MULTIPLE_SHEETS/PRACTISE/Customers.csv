@@ -1,0 +1,6 @@
+CustomerID,CustomerName,Region,City,Segment
+C101,Amit,North,Lucknow,Corporate
+C102,Riya,West,Mumbai,Consumer
+C103,Karan,South,Bangalore,Corporate
+C104,Neha,East,Kolkata,Home Office
+C105,Rahul,North,Delhi,Consumer
