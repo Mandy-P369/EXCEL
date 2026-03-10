@@ -1,0 +1,1101 @@
+OrderID,CustomerName,ProductCategory,Product,State,City,Region,SaleDate
+1,Vijay Prakash,Jewelry,Wallet,Madhya Pradesh,Vellore,Eastern Ghats Region,2023-12-09
+2,Arjun Reddy,Baby Products,Wallet,Kerala,Thiruvananthapuram,North-East India,2023-09-17
+3,Ravi Kumar,Home Appliances,Dog Leash,Kerala,Khandwa,North-East India,2023-07-15
+4,Mahesh Bhat,Baby Products,Baby Stroller,Andhra Pradesh,Mahasamund,South-West India,2023-10-18
+5,Vijay Prakash,Automotive Accessories,Cricket Bat,Kerala,Rajnandgaon,South-West India,2023-09-29
+6,Aayush Pateriya,Groceries,Jacket,Telangana,Dewas,Central India,2023-02-20
+7,Mahesh Bhat,Kitchenware,Laptop,Telangana,Mangaluru,South-West India,2023-05-19
+8,Suresh Babu,Groceries,Sneakers,Madhya Pradesh,Vellore,East India,2023-03-10
+9,Venkatesh Rao,Pet Supplies,Smartphone,Telangana,Sehore,Central India,2023-02-15
+10,Vijay Prakash,Sports Equipment,Computer Mouse,Karnataka,Chhindwara,Central India,2023-08-19
+11,Arjun Reddy,Jewelry,Smartphone,Karnataka,Ambikapur,West India,2023-04-11
+12,Suresh Babu,Kitchenware,Headphones,Madhya Pradesh,Kochi,West India,2023-03-31
+13,Venkatesh Rao,Beauty Products,Sandals,Telangana,Ratlam,Eastern Ghats Region,2023-07-30
+14,Suresh Babu,Kitchenware,Electric Kettle,Karnataka,Ratlam,East India,2023-06-28
+15,Arjun Reddy,Clothing,Handbag,Karnataka,Erode,South-West India,2023-11-01
+16,Suresh Babu,Toys,Wallet,Andhra Pradesh,Warangal,North-East India,2023-08-06
+17,Ravi Kumar,Furniture,Smartwatch,Kerala,Bengaluru,Eastern Ghats Region,2023-09-19
+18,Arjun Reddy,Automotive Accessories,Wallet,Tamil Nadu,Tirupati,North India,2023-01-25
+19,Vijay Prakash,Toys,Computer Mouse,Telangana,Dharwad,North India,2023-09-13
+20,Ravi Kumar,Automotive Accessories,Wardrobe,Madhya Pradesh,Gwalior,North India,2023-02-18
+21,Aayush Pateriya,Mobile Accessories,Baby Stroller,Tamil Nadu,Coimbatore,Central India,2023-07-27
+22,Suresh Babu,Office Supplies,Sneakers,Karnataka,Indore,South-East India,2023-07-28
+23,Vijay Prakash,Stationery,Dog Leash,Tamil Nadu,Salem,South India,2023-02-28
+24,Aayush Pateriya,Beauty Products,Refrigerator,Kerala,Khandwa,North India,2023-09-14
+25,Karthik Iyer,Toys,Pressure Cooker,Telangana,Vijayawada,Central India,2023-02-06
+26,Ravi Kumar,Kitchenware,T-Shirt,Tamil Nadu,Ratlam,East India,2023-06-13
+27,Arjun Reddy,Electronics,Water Bottle,Tamil Nadu,Mysuru,Eastern Ghats Region,2023-01-22
+28,Karthik Iyer,Clothing,Refrigerator,Kerala,Satna,Eastern Ghats Region,2023-02-22
+29,Arjun Reddy,Office Supplies,Garden Hose,Chhattisgarh,Belagavi,South India,2023-09-01
+30,Suresh Babu,Home Appliances,Vacuum Cleaner,Telangana,Sehore,South-West India,2023-07-17
+31,Anand Subramanian,Electronics,Dinner Set,Chhattisgarh,Ambikapur,Eastern Ghats Region,2023-12-09
+32,Karthik Iyer,Mobile Accessories,Dinner Set,Chhattisgarh,Madurai,East India,2023-05-11
+33,Vijay Prakash,Footwear,Dog Leash,Madhya Pradesh,Sehore,North-West India,2023-07-20
+34,Suresh Babu,Footwear,Smartphone,Andhra Pradesh,Chennai,South-East India,2023-03-16
+35,Vijay Prakash,Clothing,Washing Machine,Kerala,Bhilai,South-East India,2023-10-27
+36,Arjun Reddy,Beauty Products,Water Purifier,Kerala,Gwalior,South-West India,2023-06-05
+37,Ravi Kumar,Health Products,Cookware Set,Madhya Pradesh,Raipur,Central India,2023-01-09
+38,Venkatesh Rao,Groceries,Water Bottle,Madhya Pradesh,Sagar,North-West India,2023-03-19
+39,Mahesh Bhat,Toys,Office Chair,Telangana,Bhilai,Central India,2023-01-07
+40,Mahesh Bhat,Books,Sunglasses,Chhattisgarh,Dhamtari,Central India,2023-03-22
+41,Vijay Prakash,Clothing,Computer Mouse,Andhra Pradesh,Jabalpur,North-West India,2023-01-15
+42,Suresh Babu,Jewelry,Water Purifier,Tamil Nadu,Tirupati,North-East India,2023-03-14
+43,Vijay Prakash,Sports Equipment,Mixer Grinder,Chhattisgarh,Vidisha,Eastern Ghats Region,2023-05-25
+44,Karthik Iyer,Kitchenware,Dining Table,Karnataka,Chhindwara,North-West India,2023-10-18
+45,Ravi Kumar,Home Appliances,Notebook,Telangana,Bhopal,North India,2023-06-02
+46,Venkatesh Rao,Baby Products,Dumbbells,Telangana,Rajnandgaon,North India,2023-02-06
+47,Suresh Babu,Furniture,Smartwatch,Tamil Nadu,Mysuru,North-East India,2023-06-07
+48,Anand Subramanian,Garden Supplies,USB Flash Drive,Tamil Nadu,Dharwad,North India,2023-11-14
+49,Venkatesh Rao,Groceries,Tennis Racket,Telangana,Kochi,North-East India,2023-11-11
+50,Aayush Pateriya,Electronics,Backpack,Telangana,Vidisha,East India,2023-05-24
+51,Suresh Babu,Footwear,Keyboard,Andhra Pradesh,Erode,East India,2023-10-10
+52,Vijay Prakash,Groceries,Garden Hose,Kerala,Chhindwara,East India,2023-07-16
+53,Karthik Iyer,Toys,Smartwatch,Kerala,Kochi,South-East India,2023-12-14
+54,Vijay Prakash,Garden Supplies,Electric Kettle,Kerala,Thrissur,East India,2023-03-14
+55,Anand Subramanian,Footwear,Football,Telangana,Bilaspur,Central India,2023-01-28
+56,Karthik Iyer,Clothing,Refrigerator,Andhra Pradesh,Gwalior,West India,2023-11-04
+57,Aayush Pateriya,Baby Products,Dinner Set,Madhya Pradesh,Coimbatore,North-East India,2023-05-14
+58,Arjun Reddy,Kitchenware,Television,Telangana,Korba,South-East India,2023-06-04
+59,Venkatesh Rao,Health Products,Mixer Grinder,Andhra Pradesh,Vijayawada,North-East India,2023-06-21
+60,Anand Subramanian,Beauty Products,Bed Mattress,Chhattisgarh,Burhanpur,South-West India,2023-06-08
+61,Karthik Iyer,Beauty Products,Jacket,Karnataka,Mysuru,West India,2023-11-10
+62,Vijay Prakash,Pet Supplies,Water Bottle,Chhattisgarh,Khandwa,East India,2023-03-11
+63,Vijay Prakash,Books,Mixer Grinder,Madhya Pradesh,Ujjain,West India,2023-07-15
+64,Anand Subramanian,Health Products,Pet Food,Chhattisgarh,Kochi,South-West India,2023-07-17
+65,Vijay Prakash,Health Products,Cookware Set,Kerala,Indore,South-East India,2023-04-23
+66,Anand Subramanian,Garden Supplies,Garden Hose,Telangana,Raipur,South-East India,2023-04-18
+67,Venkatesh Rao,Garden Supplies,Headphones,Telangana,Vidisha,South-East India,2023-09-21
+68,Suresh Babu,Garden Supplies,Dining Table,Andhra Pradesh,Ratlam,North-East India,2023-09-15
+69,Karthik Iyer,Books,Water Bottle,Andhra Pradesh,Kurnool,North India,2023-07-20
+70,Karthik Iyer,Automotive Accessories,Yoga Mat,Kerala,Chhindwara,North India,2023-01-01
+71,Arjun Reddy,Groceries,Printer,Telangana,Gwalior,North India,2023-11-28
+72,Ravi Kumar,Electronics,Garden Hose,Kerala,Belagavi,North India,2023-04-22
+73,Vijay Prakash,Beauty Products,Sofa,Kerala,Sehore,North-West India,2023-04-08
+74,Karthik Iyer,Garden Supplies,Tennis Racket,Kerala,Sehore,North India,2023-12-22
+75,Anand Subramanian,Furniture,Mixer Grinder,Chhattisgarh,Gwalior,North-West India,2023-11-08
+76,Suresh Babu,Furniture,Baby Stroller,Andhra Pradesh,Chhindwara,Eastern Ghats Region,2023-05-11
+77,Aayush Pateriya,Baby Products,Microwave Oven,Madhya Pradesh,Coimbatore,South-West India,2023-04-14
+78,Vijay Prakash,Groceries,Cookware Set,Madhya Pradesh,Sehore,North-East India,2023-03-28
+79,Venkatesh Rao,Toys,Tablet,Karnataka,Khandwa,Central India,2023-03-12
+80,Arjun Reddy,Electronics,Printer,Tamil Nadu,Chennai,Eastern Ghats Region,2023-06-02
+81,Venkatesh Rao,Footwear,Headphones,Tamil Nadu,Chennai,South India,2023-12-21
+82,Aayush Pateriya,Home Appliances,Water Bottle,Andhra Pradesh,Thiruvananthapuram,South India,2023-06-02
+83,Aayush Pateriya,Toys,Jacket,Madhya Pradesh,Chhindwara,Central India,2023-03-01
+84,Arjun Reddy,Pet Supplies,Diapers,Tamil Nadu,Jagdalpur,East India,2023-10-18
+85,Karthik Iyer,Garden Supplies,Office Chair,Tamil Nadu,Rajnandgaon,Eastern Ghats Region,2023-06-22
+86,Arjun Reddy,Jewelry,Football,Madhya Pradesh,Guntur,West India,2023-07-05
+87,Vijay Prakash,Health Products,Tennis Racket,Andhra Pradesh,Dharwad,North-East India,2023-06-04
+88,Mahesh Bhat,Kitchenware,Pet Food,Telangana,Rewa,South India,2023-04-14
+89,Aayush Pateriya,Pet Supplies,Bluetooth Speaker,Kerala,Kozhikode,East India,2023-09-03
+90,Venkatesh Rao,Home Appliances,Dog Leash,Tamil Nadu,Kurnool,South-West India,2023-08-10
+91,Suresh Babu,Beauty Products,Tablet,Chhattisgarh,Dewas,Central India,2023-12-21
+92,Mahesh Bhat,Pet Supplies,Garden Hose,Kerala,Ujjain,Eastern Ghats Region,2023-01-11
+93,Mahesh Bhat,Health Products,Dog Leash,Andhra Pradesh,Dewas,Eastern Ghats Region,2023-04-08
+94,Mahesh Bhat,Sports Equipment,Microwave Oven,Telangana,Bilaspur,West India,2023-12-01
+95,Arjun Reddy,Home Appliances,Backpack,Chhattisgarh,Indore,North-West India,2023-09-08
+96,Karthik Iyer,Footwear,Cookware Set,Karnataka,Mangaluru,Eastern Ghats Region,2023-04-30
+97,Vijay Prakash,Footwear,Mixer Grinder,Tamil Nadu,Ratlam,South India,2023-01-24
+98,Karthik Iyer,Sports Equipment,Wardrobe,Telangana,Bilaspur,North-West India,2023-03-19
+99,Suresh Babu,Clothing,Laptop,Karnataka,Bengaluru,Central India,2023-09-20
+100,Aayush Pateriya,Pet Supplies,Wardrobe,Karnataka,Kochi,North India,2023-05-16
+101,Anand Subramanian,Health Products,Tennis Racket,Madhya Pradesh,Mangaluru,South India,2023-08-30
+102,Karthik Iyer,Office Supplies,Water Bottle,Telangana,Chennai,East India,2023-04-23
+103,Aayush Pateriya,Furniture,Headphones,Karnataka,Vijayawada,West India,2023-12-05
+104,Arjun Reddy,Health Products,Dinner Set,Madhya Pradesh,Thrissur,South India,2023-02-24
+105,Mahesh Bhat,Books,Jacket,Chhattisgarh,Dewas,West India,2023-09-23
+106,Karthik Iyer,Pet Supplies,Football,Kerala,Bilaspur,South India,2023-06-25
+107,Aayush Pateriya,Automotive Accessories,Dumbbells,Telangana,Dharwad,North-West India,2023-03-15
+108,Venkatesh Rao,Stationery,Washing Machine,Tamil Nadu,Khandwa,Central India,2023-09-10
+109,Vijay Prakash,Books,Printer,Tamil Nadu,Ratlam,North India,2023-03-09
+110,Anand Subramanian,Footwear,Sandals,Tamil Nadu,Ratlam,South India,2023-06-14
+111,Vijay Prakash,Mobile Accessories,Handbag,Karnataka,Tirupati,Eastern Ghats Region,2023-02-09
+112,Arjun Reddy,Jewelry,Dinner Set,Andhra Pradesh,Tirupati,North-East India,2023-06-29
+113,Mahesh Bhat,Books,USB Flash Drive,Tamil Nadu,Chhindwara,North-West India,2023-11-11
+114,Mahesh Bhat,Clothing,Tablet,Tamil Nadu,Erode,West India,2023-03-16
+115,Vijay Prakash,Footwear,Tennis Racket,Telangana,Sehore,North-West India,2023-11-04
+116,Arjun Reddy,Books,Pet Food,Madhya Pradesh,Gwalior,North India,2023-02-22
+117,Arjun Reddy,Office Supplies,Pressure Cooker,Madhya Pradesh,Bilaspur,East India,2023-06-16
+118,Anand Subramanian,Books,Water Purifier,Madhya Pradesh,Raipur,South-East India,2023-03-04
+119,Ravi Kumar,Home Appliances,Vacuum Cleaner,Andhra Pradesh,Mysuru,East India,2023-07-05
+120,Ravi Kumar,Furniture,Sandals,Andhra Pradesh,Satna,North-West India,2023-12-28
+121,Venkatesh Rao,Clothing,Tablet,Kerala,Bengaluru,North India,2023-05-13
+122,Vijay Prakash,Sports Equipment,Cookware Set,Tamil Nadu,Gwalior,East India,2023-09-21
+123,Anand Subramanian,Groceries,Frying Pan,Tamil Nadu,Kozhikode,Central India,2023-09-10
+124,Mahesh Bhat,Kitchenware,Tennis Racket,Madhya Pradesh,Thiruvananthapuram,South-East India,2023-08-03
+125,Arjun Reddy,Mobile Accessories,Sandals,Madhya Pradesh,Korba,South-East India,2023-09-19
+126,Aayush Pateriya,Stationery,Dumbbells,Chhattisgarh,Khandwa,South India,2023-11-05
+127,Anand Subramanian,Books,Dinner Set,Karnataka,Thrissur,South-East India,2023-12-15
+128,Karthik Iyer,Toys,USB Flash Drive,Telangana,Bengaluru,North India,2023-07-18
+129,Aayush Pateriya,Jewelry,Smartwatch,Chhattisgarh,Bhilai,Central India,2023-09-01
+130,Ravi Kumar,Beauty Products,Sunglasses,Andhra Pradesh,Vidisha,South-East India,2023-01-29
+131,Vijay Prakash,Sports Equipment,Smartwatch,Karnataka,Chennai,South-East India,2023-07-04
+132,Ravi Kumar,Groceries,Wallet,Madhya Pradesh,Hyderabad,North-West India,2023-03-19
+133,Suresh Babu,Footwear,Printer,Karnataka,Burhanpur,North-West India,2023-08-30
+134,Arjun Reddy,Baby Products,Tennis Racket,Andhra Pradesh,Satna,South India,2023-09-15
+135,Ravi Kumar,Stationery,USB Flash Drive,Chhattisgarh,Sagar,South India,2023-08-16
+136,Arjun Reddy,Baby Products,Laptop,Kerala,Korba,South-East India,2023-10-08
+137,Karthik Iyer,Mobile Accessories,Baby Stroller,Telangana,Raipur,East India,2023-10-01
+138,Venkatesh Rao,Health Products,Mixer Grinder,Andhra Pradesh,Erode,Central India,2023-04-11
+139,Suresh Babu,Furniture,Television,Madhya Pradesh,Guntur,South India,2023-02-22
+140,Aayush Pateriya,Home Appliances,Dog Leash,Madhya Pradesh,Tiruchirappalli,Eastern Ghats Region,2023-09-15
+141,Arjun Reddy,Health Products,Headphones,Chhattisgarh,Vijayawada,South-East India,2023-11-18
+142,Aayush Pateriya,Pet Supplies,Backpack,Tamil Nadu,Bhilai,North-West India,2023-12-22
+143,Vijay Prakash,Clothing,Dumbbells,Andhra Pradesh,Bhopal,North-East India,2023-01-16
+144,Anand Subramanian,Electronics,Pet Food,Madhya Pradesh,Sehore,South-East India,2023-06-02
+145,Anand Subramanian,Stationery,Tablet,Madhya Pradesh,Mysuru,South-East India,2023-04-12
+146,Aayush Pateriya,Office Supplies,Television,Karnataka,Durg,South-West India,2023-06-05
+147,Venkatesh Rao,Toys,Football,Chhattisgarh,Mahasamund,North-East India,2023-09-21
+148,Vijay Prakash,Furniture,Wrist Watch,Kerala,Vellore,South-West India,2023-05-14
+149,Venkatesh Rao,Groceries,Mixer Grinder,Telangana,Tiruchirappalli,South-West India,2023-02-19
+150,Karthik Iyer,Beauty Products,Jeans,Andhra Pradesh,Sagar,Central India,2023-08-03
+151,Venkatesh Rao,Toys,Tablet,Telangana,Ambikapur,East India,2023-01-24
+152,Karthik Iyer,Footwear,Wardrobe,Karnataka,Sagar,South-East India,2023-02-02
+153,Anand Subramanian,Mobile Accessories,Mixer Grinder,Tamil Nadu,Salem,North-West India,2023-11-18
+154,Mahesh Bhat,Baby Products,Pet Food,Kerala,Durg,North India,2023-10-16
+155,Ravi Kumar,Home Appliances,Sofa,Telangana,Rajnandgaon,North India,2023-09-25
+156,Venkatesh Rao,Beauty Products,Dinner Set,Tamil Nadu,Chennai,West India,2023-06-02
+157,Aayush Pateriya,Clothing,Sofa,Karnataka,Ambikapur,Central India,2023-11-08
+158,Aayush Pateriya,Footwear,Water Bottle,Chhattisgarh,Gwalior,South India,2023-02-09
+159,Venkatesh Rao,Electronics,Smartwatch,Telangana,Kozhikode,East India,2023-08-03
+160,Karthik Iyer,Kitchenware,Bed Mattress,Madhya Pradesh,Dewas,Central India,2023-08-31
+161,Vijay Prakash,Furniture,Sneakers,Andhra Pradesh,Belagavi,Central India,2023-07-03
+162,Vijay Prakash,Furniture,Vacuum Cleaner,Chhattisgarh,Jabalpur,West India,2023-03-20
+163,Vijay Prakash,Pet Supplies,Baby Stroller,Andhra Pradesh,Indore,West India,2023-12-17
+164,Venkatesh Rao,Automotive Accessories,Mixer Grinder,Tamil Nadu,Khandwa,East India,2023-09-07
+165,Venkatesh Rao,Automotive Accessories,Computer Mouse,Kerala,Burhanpur,West India,2023-04-18
+166,Karthik Iyer,Pet Supplies,Refrigerator,Telangana,Mysuru,North-West India,2023-04-23
+167,Ravi Kumar,Home Appliances,Smartwatch,Andhra Pradesh,Chennai,North-West India,2023-07-26
+168,Mahesh Bhat,Kitchenware,Diapers,Telangana,Mahasamund,South India,2023-07-18
+169,Mahesh Bhat,Stationery,USB Flash Drive,Madhya Pradesh,Korba,Eastern Ghats Region,2023-11-30
+170,Suresh Babu,Clothing,Sunglasses,Andhra Pradesh,Jagdalpur,Eastern Ghats Region,2023-05-14
+171,Suresh Babu,Mobile Accessories,Bluetooth Speaker,Chhattisgarh,Ambikapur,Central India,2023-03-24
+172,Suresh Babu,Toys,Dog Leash,Chhattisgarh,Bilaspur,Eastern Ghats Region,2023-11-08
+173,Vijay Prakash,Baby Products,Jeans,Andhra Pradesh,Bengaluru,East India,2023-11-19
+174,Venkatesh Rao,Toys,Television,Kerala,Ratlam,West India,2023-03-09
+175,Karthik Iyer,Health Products,T-Shirt,Andhra Pradesh,Rewa,North-West India,2023-10-31
+176,Aayush Pateriya,Pet Supplies,Water Bottle,Karnataka,Dewas,North-East India,2023-09-19
+177,Aayush Pateriya,Garden Supplies,Wallet,Madhya Pradesh,Rewa,North-East India,2023-03-14
+178,Ravi Kumar,Furniture,Bluetooth Speaker,Karnataka,Chennai,South India,2023-09-06
+179,Arjun Reddy,Baby Products,Wallet,Chhattisgarh,Ratlam,South-East India,2023-12-05
+180,Aayush Pateriya,Automotive Accessories,USB Flash Drive,Madhya Pradesh,Kochi,North-West India,2023-09-12
+181,Aayush Pateriya,Electronics,Bed Mattress,Andhra Pradesh,Guntur,North-West India,2023-02-03
+182,Suresh Babu,Books,Baby Stroller,Karnataka,Kochi,Eastern Ghats Region,2023-09-10
+183,Aayush Pateriya,Stationery,Backpack,Telangana,Hubballi,North India,2023-04-18
+184,Ravi Kumar,Baby Products,Water Purifier,Tamil Nadu,Guntur,South India,2023-08-13
+185,Arjun Reddy,Beauty Products,Wardrobe,Kerala,Ambikapur,East India,2023-09-17
+186,Ravi Kumar,Groceries,Television,Tamil Nadu,Hyderabad,North-East India,2023-11-18
+187,Mahesh Bhat,Electronics,Football,Karnataka,Sagar,North-West India,2023-01-08
+188,Ravi Kumar,Office Supplies,Diapers,Madhya Pradesh,Raipur,West India,2023-04-04
+189,Karthik Iyer,Mobile Accessories,Dinner Set,Karnataka,Rajnandgaon,South India,2023-08-14
+190,Karthik Iyer,Office Supplies,Garden Hose,Andhra Pradesh,Udupi,North-East India,2023-08-14
+191,Mahesh Bhat,Kitchenware,Sunglasses,Madhya Pradesh,Durg,North-West India,2023-07-30
+192,Suresh Babu,Groceries,Mixer Grinder,Kerala,Mysuru,West India,2023-10-20
+193,Venkatesh Rao,Mobile Accessories,Garden Hose,Kerala,Chennai,Central India,2023-09-19
+194,Venkatesh Rao,Electronics,Electric Kettle,Telangana,Ratlam,East India,2023-06-12
+195,Anand Subramanian,Books,Washing Machine,Karnataka,Durg,South-East India,2023-06-11
+196,Venkatesh Rao,Pet Supplies,Diapers,Telangana,Tirupati,North India,2023-01-29
+197,Aayush Pateriya,Automotive Accessories,Dinner Set,Tamil Nadu,Durg,South-West India,2023-02-20
+198,Arjun Reddy,Furniture,Computer Mouse,Andhra Pradesh,Jabalpur,South India,2023-09-21
+199,Mahesh Bhat,Beauty Products,Dog Leash,Andhra Pradesh,Salem,North-West India,2023-01-22
+200,Ravi Kumar,Garden Supplies,Backpack,Telangana,Bhopal,South-East India,2023-10-18
+201,Suresh Babu,Baby Products,Smartphone,Tamil Nadu,Satna,South India,2023-07-14
+202,Ravi Kumar,Sports Equipment,Dog Leash,Chhattisgarh,Madurai,North India,2023-10-28
+203,Aayush Pateriya,Furniture,Smartwatch,Madhya Pradesh,Dewas,South-East India,2023-05-31
+204,Aayush Pateriya,Books,Notebook,Andhra Pradesh,Hyderabad,North-East India,2023-04-11
+205,Arjun Reddy,Stationery,Headphones,Andhra Pradesh,Kozhikode,North-East India,2023-07-23
+206,Vijay Prakash,Pet Supplies,Pressure Cooker,Tamil Nadu,Belagavi,South-East India,2023-07-22
+207,Karthik Iyer,Books,Dinner Set,Kerala,Tiruchirappalli,South India,2023-08-10
+208,Ravi Kumar,Toys,Jacket,Madhya Pradesh,Warangal,West India,2023-07-25
+209,Anand Subramanian,Health Products,Yoga Mat,Andhra Pradesh,Mangaluru,North-East India,2023-12-18
+210,Vijay Prakash,Kitchenware,Microwave Oven,Kerala,Madurai,West India,2023-06-08
+211,Aayush Pateriya,Office Supplies,Keyboard,Tamil Nadu,Jagdalpur,South India,2023-04-07
+212,Mahesh Bhat,Mobile Accessories,Dog Leash,Chhattisgarh,Raipur,North-East India,2023-08-04
+213,Vijay Prakash,Pet Supplies,Backpack,Kerala,Mangaluru,West India,2023-08-21
+214,Anand Subramanian,Home Appliances,Sneakers,Karnataka,Tirupati,Central India,2023-10-21
+215,Aayush Pateriya,Sports Equipment,Water Purifier,Chhattisgarh,Dharwad,Eastern Ghats Region,2023-09-23
+216,Vijay Prakash,Kitchenware,Bed Mattress,Kerala,Jabalpur,South-East India,2023-01-17
+217,Ravi Kumar,Jewelry,Dog Leash,Telangana,Dewas,North India,2023-01-29
+218,Mahesh Bhat,Sports Equipment,Mixer Grinder,Andhra Pradesh,Hubballi,North-West India,2023-08-26
+219,Mahesh Bhat,Automotive Accessories,Office Chair,Tamil Nadu,Khandwa,North-East India,2023-01-25
+220,Karthik Iyer,Kitchenware,Tablet,Tamil Nadu,Jabalpur,North-East India,2023-01-27
+221,Anand Subramanian,Garden Supplies,Smartwatch,Chhattisgarh,Rewa,North India,2023-07-24
+222,Suresh Babu,Groceries,Wrist Watch,Tamil Nadu,Coimbatore,South India,2023-04-08
+223,Venkatesh Rao,Pet Supplies,Smartwatch,Telangana,Udupi,Central India,2023-06-11
+224,Ravi Kumar,Kitchenware,Office Chair,Chhattisgarh,Thrissur,South-East India,2023-08-31
+225,Venkatesh Rao,Electronics,Water Purifier,Tamil Nadu,Visakhapatnam,North India,2023-04-02
+226,Mahesh Bhat,Office Supplies,Water Bottle,Telangana,Bhopal,South-East India,2023-12-12
+227,Karthik Iyer,Electronics,Smartwatch,Karnataka,Kurnool,South-East India,2023-10-28
+228,Anand Subramanian,Health Products,Pet Food,Tamil Nadu,Raipur,South-West India,2023-05-18
+229,Venkatesh Rao,Clothing,Sofa,Karnataka,Warangal,North India,2023-11-07
+230,Karthik Iyer,Home Appliances,Air Conditioner,Kerala,Chhindwara,East India,2023-11-22
+231,Karthik Iyer,Health Products,Backpack,Chhattisgarh,Visakhapatnam,West India,2023-05-07
+232,Vijay Prakash,Furniture,Yoga Mat,Kerala,Tirupati,South-West India,2023-06-24
+233,Karthik Iyer,Groceries,Smartwatch,Karnataka,Rajnandgaon,West India,2023-12-10
+234,Venkatesh Rao,Groceries,Jeans,Kerala,Dewas,North India,2023-05-30
+235,Vijay Prakash,Toys,Sunglasses,Tamil Nadu,Rewa,South India,2023-01-15
+236,Karthik Iyer,Books,Wardrobe,Kerala,Sehore,Eastern Ghats Region,2023-02-27
+237,Vijay Prakash,Baby Products,Garden Hose,Kerala,Dharwad,North-East India,2023-05-01
+238,Anand Subramanian,Mobile Accessories,Backpack,Tamil Nadu,Korba,South India,2023-03-04
+239,Vijay Prakash,Jewelry,Mixer Grinder,Karnataka,Ambikapur,Central India,2023-01-14
+240,Suresh Babu,Garden Supplies,Vacuum Cleaner,Chhattisgarh,Bengaluru,South India,2023-07-16
+241,Aayush Pateriya,Office Supplies,Tennis Racket,Telangana,Hyderabad,Central India,2023-01-18
+242,Aayush Pateriya,Furniture,Bluetooth Speaker,Chhattisgarh,Bhilai,South India,2023-03-04
+243,Arjun Reddy,Stationery,Frying Pan,Telangana,Burhanpur,South India,2023-02-23
+244,Anand Subramanian,Sports Equipment,Pet Food,Tamil Nadu,Indore,South-West India,2023-07-03
+245,Aayush Pateriya,Home Appliances,Water Bottle,Tamil Nadu,Ujjain,North-West India,2023-05-19
+246,Anand Subramanian,Mobile Accessories,Water Bottle,Telangana,Gwalior,East India,2023-03-09
+247,Anand Subramanian,Automotive Accessories,Water Bottle,Madhya Pradesh,Vidisha,North-East India,2023-04-27
+248,Arjun Reddy,Electronics,Dining Table,Andhra Pradesh,Kochi,North India,2023-07-18
+249,Karthik Iyer,Furniture,Sofa,Andhra Pradesh,Madurai,Central India,2023-09-17
+250,Karthik Iyer,Automotive Accessories,Wallet,Telangana,Thrissur,South-East India,2023-12-08
+251,Aayush Pateriya,Jewelry,Pressure Cooker,Chhattisgarh,Ujjain,Central India,2023-07-27
+252,Ravi Kumar,Footwear,Handbag,Tamil Nadu,Madurai,South-West India,2023-08-09
+253,Suresh Babu,Baby Products,Headphones,Madhya Pradesh,Bilaspur,West India,2023-01-09
+254,Karthik Iyer,Jewelry,Backpack,Chhattisgarh,Rewa,West India,2023-11-02
+255,Mahesh Bhat,Kitchenware,Wardrobe,Karnataka,Rewa,South-West India,2023-12-14
+256,Venkatesh Rao,Automotive Accessories,Mixer Grinder,Chhattisgarh,Jabalpur,North-West India,2023-08-10
+257,Vijay Prakash,Clothing,Sunglasses,Tamil Nadu,Dharwad,Eastern Ghats Region,2023-06-27
+258,Vijay Prakash,Clothing,Baby Stroller,Kerala,Vidisha,West India,2023-10-09
+259,Karthik Iyer,Baby Products,Pressure Cooker,Kerala,Chhindwara,Eastern Ghats Region,2023-01-10
+260,Aayush Pateriya,Home Appliances,Wrist Watch,Telangana,Bhilai,North-West India,2023-05-16
+261,Anand Subramanian,Groceries,Football,Telangana,Rajnandgaon,Central India,2023-10-21
+262,Karthik Iyer,Clothing,Dog Leash,Chhattisgarh,Ujjain,South-West India,2023-12-01
+263,Ravi Kumar,Electronics,Dining Table,Telangana,Indore,West India,2023-10-21
+264,Mahesh Bhat,Baby Products,T-Shirt,Andhra Pradesh,Ambikapur,Eastern Ghats Region,2023-03-20
+265,Mahesh Bhat,Beauty Products,Notebook,Madhya Pradesh,Dhamtari,North-East India,2023-01-05
+266,Venkatesh Rao,Kitchenware,Electric Kettle,Andhra Pradesh,Mahasamund,Eastern Ghats Region,2023-12-26
+267,Aayush Pateriya,Electronics,Water Purifier,Tamil Nadu,Visakhapatnam,West India,2023-10-26
+268,Mahesh Bhat,Clothing,Dog Leash,Telangana,Dewas,South India,2023-05-13
+269,Aayush Pateriya,Stationery,Diapers,Karnataka,Sagar,West India,2023-04-26
+270,Arjun Reddy,Health Products,Tennis Racket,Tamil Nadu,Dewas,East India,2023-12-01
+271,Karthik Iyer,Footwear,Smartwatch,Kerala,Bhilai,South-West India,2023-05-14
+272,Mahesh Bhat,Books,Washing Machine,Karnataka,Chhindwara,South India,2023-08-16
+273,Aayush Pateriya,Furniture,Notebook,Madhya Pradesh,Korba,Central India,2023-07-11
+274,Anand Subramanian,Automotive Accessories,Pressure Cooker,Karnataka,Warangal,South-East India,2023-10-16
+275,Vijay Prakash,Furniture,Sneakers,Madhya Pradesh,Ambikapur,West India,2023-04-17
+276,Ravi Kumar,Electronics,Cricket Bat,Kerala,Dharwad,South India,2023-08-25
+277,Arjun Reddy,Stationery,Dining Table,Telangana,Udupi,South-East India,2023-12-07
+278,Karthik Iyer,Groceries,Wardrobe,Telangana,Sehore,West India,2023-02-15
+279,Karthik Iyer,Garden Supplies,T-Shirt,Karnataka,Chhindwara,North India,2023-04-01
+280,Anand Subramanian,Health Products,Sneakers,Kerala,Thrissur,South-West India,2023-07-23
+281,Venkatesh Rao,Beauty Products,Sunglasses,Kerala,Thrissur,North-West India,2023-12-28
+282,Mahesh Bhat,Kitchenware,Headphones,Madhya Pradesh,Chennai,South India,2023-07-27
+283,Karthik Iyer,Footwear,Cricket Bat,Telangana,Bhilai,South-East India,2023-02-17
+284,Karthik Iyer,Health Products,Pressure Cooker,Kerala,Chhindwara,North-West India,2023-04-02
+285,Venkatesh Rao,Footwear,Tennis Racket,Chhattisgarh,Warangal,South-West India,2023-07-06
+286,Aayush Pateriya,Pet Supplies,Electric Kettle,Chhattisgarh,Bhopal,Central India,2023-06-06
+287,Anand Subramanian,Garden Supplies,Frying Pan,Chhattisgarh,Chhindwara,East India,2023-07-26
+288,Suresh Babu,Electronics,Air Conditioner,Madhya Pradesh,Ambikapur,South India,2023-08-18
+289,Venkatesh Rao,Furniture,Office Chair,Chhattisgarh,Chhindwara,North-East India,2023-04-13
+290,Anand Subramanian,Kitchenware,Office Chair,Andhra Pradesh,Dharwad,Eastern Ghats Region,2023-03-17
+291,Suresh Babu,Stationery,Dog Leash,Karnataka,Tiruchirappalli,Central India,2023-08-09
+292,Aayush Pateriya,Office Supplies,Electric Kettle,Kerala,Udupi,North India,2023-11-03
+293,Anand Subramanian,Furniture,Water Bottle,Chhattisgarh,Ambikapur,South-West India,2023-08-11
+294,Anand Subramanian,Pet Supplies,Television,Telangana,Kurnool,West India,2023-12-30
+295,Venkatesh Rao,Sports Equipment,Headphones,Tamil Nadu,Satna,East India,2023-11-26
+296,Karthik Iyer,Automotive Accessories,Keyboard,Karnataka,Coimbatore,South-East India,2023-11-09
+297,Karthik Iyer,Furniture,Water Bottle,Andhra Pradesh,Thrissur,South India,2023-03-18
+298,Anand Subramanian,Clothing,Yoga Mat,Madhya Pradesh,Thrissur,South-East India,2023-12-27
+299,Ravi Kumar,Health Products,Refrigerator,Andhra Pradesh,Gwalior,South-West India,2023-07-06
+300,Arjun Reddy,Books,Handbag,Telangana,Udupi,Eastern Ghats Region,2023-02-04
+301,Mahesh Bhat,Electronics,Frying Pan,Madhya Pradesh,Thrissur,South-West India,2023-05-26
+302,Venkatesh Rao,Clothing,Diapers,Kerala,Ambikapur,South-East India,2023-02-14
+303,Suresh Babu,Books,Keyboard,Karnataka,Mahasamund,North India,2023-05-16
+304,Arjun Reddy,Groceries,Television,Karnataka,Bilaspur,South India,2023-05-29
+305,Ravi Kumar,Mobile Accessories,Vacuum Cleaner,Andhra Pradesh,Dhamtari,North-West India,2023-11-20
+306,Anand Subramanian,Books,T-Shirt,Madhya Pradesh,Durg,Eastern Ghats Region,2023-03-17
+307,Suresh Babu,Footwear,Football,Karnataka,Madurai,North-East India,2023-04-21
+308,Aayush Pateriya,Garden Supplies,Refrigerator,Telangana,Chennai,South-West India,2023-07-06
+309,Venkatesh Rao,Garden Supplies,Garden Hose,Andhra Pradesh,Mysuru,East India,2023-11-14
+310,Aayush Pateriya,Stationery,Air Conditioner,Kerala,Satna,South-East India,2023-07-02
+311,Venkatesh Rao,Garden Supplies,Yoga Mat,Andhra Pradesh,Raipur,South India,2023-10-21
+312,Venkatesh Rao,Footwear,Frying Pan,Tamil Nadu,Chennai,South India,2023-01-01
+313,Aayush Pateriya,Automotive Accessories,Tennis Racket,Telangana,Vellore,South-East India,2023-06-07
+314,Mahesh Bhat,Baby Products,Laptop,Telangana,Bengaluru,North India,2023-12-22
+315,Venkatesh Rao,Health Products,Computer Mouse,Madhya Pradesh,Hyderabad,Eastern Ghats Region,2023-03-03
+316,Ravi Kumar,Furniture,Sandals,Andhra Pradesh,Warangal,Central India,2023-11-13
+317,Arjun Reddy,Toys,Pet Food,Telangana,Dharwad,North India,2023-08-05
+318,Aayush Pateriya,Kitchenware,Notebook,Kerala,Vidisha,North India,2023-10-01
+319,Aayush Pateriya,Sports Equipment,Dumbbells,Chhattisgarh,Thiruvananthapuram,Central India,2023-12-09
+320,Arjun Reddy,Jewelry,Refrigerator,Tamil Nadu,Sagar,East India,2023-11-30
+321,Venkatesh Rao,Kitchenware,Air Conditioner,Tamil Nadu,Bhilai,South India,2023-08-27
+322,Aayush Pateriya,Clothing,Smartwatch,Andhra Pradesh,Rajnandgaon,South India,2023-11-11
+323,Mahesh Bhat,Automotive Accessories,Frying Pan,Karnataka,Khandwa,North-West India,2023-06-19
+324,Anand Subramanian,Toys,Office Chair,Kerala,Kozhikode,East India,2023-12-23
+325,Mahesh Bhat,Books,Wallet,Madhya Pradesh,Vidisha,Central India,2023-05-06
+326,Vijay Prakash,Groceries,Office Chair,Madhya Pradesh,Khandwa,Eastern Ghats Region,2023-01-18
+327,Karthik Iyer,Pet Supplies,Handbag,Karnataka,Gwalior,Central India,2023-12-20
+328,Vijay Prakash,Baby Products,Refrigerator,Telangana,Kochi,South-West India,2023-03-27
+329,Anand Subramanian,Beauty Products,Notebook,Andhra Pradesh,Dharwad,West India,2023-02-21
+330,Anand Subramanian,Furniture,Cricket Bat,Chhattisgarh,Mangaluru,North-West India,2023-06-16
+331,Karthik Iyer,Electronics,Football,Madhya Pradesh,Thrissur,South-East India,2023-06-10
+332,Ravi Kumar,Books,Printer,Karnataka,Hubballi,North-East India,2023-09-18
+333,Vijay Prakash,Stationery,Cricket Bat,Tamil Nadu,Jabalpur,South-East India,2023-04-16
+334,Venkatesh Rao,Clothing,Jacket,Chhattisgarh,Bhilai,East India,2023-07-06
+335,Karthik Iyer,Stationery,Vacuum Cleaner,Tamil Nadu,Salem,Central India,2023-08-17
+336,Aayush Pateriya,Furniture,Wardrobe,Kerala,Kurnool,Central India,2023-07-11
+337,Mahesh Bhat,Office Supplies,Headphones,Madhya Pradesh,Hubballi,North India,2023-09-15
+338,Mahesh Bhat,Toys,Dumbbells,Karnataka,Udupi,South-East India,2023-08-01
+339,Karthik Iyer,Groceries,Bluetooth Speaker,Telangana,Salem,South-West India,2023-02-15
+340,Aayush Pateriya,Jewelry,Handbag,Tamil Nadu,Chennai,South-East India,2023-09-12
+341,Arjun Reddy,Sports Equipment,Jeans,Andhra Pradesh,Thrissur,West India,2023-02-22
+342,Karthik Iyer,Toys,Bed Mattress,Karnataka,Udupi,Central India,2023-04-16
+343,Vijay Prakash,Jewelry,Wrist Watch,Chhattisgarh,Rajnandgaon,South-East India,2023-04-16
+344,Venkatesh Rao,Books,Mixer Grinder,Tamil Nadu,Ambikapur,North India,2023-07-25
+345,Karthik Iyer,Automotive Accessories,Headphones,Madhya Pradesh,Raipur,North-West India,2023-07-13
+346,Mahesh Bhat,Books,Computer Mouse,Madhya Pradesh,Indore,East India,2023-05-02
+347,Anand Subramanian,Office Supplies,Tablet,Kerala,Ujjain,Central India,2023-11-13
+348,Karthik Iyer,Toys,Sofa,Telangana,Durg,Central India,2023-01-03
+349,Mahesh Bhat,Books,Printer,Andhra Pradesh,Mahasamund,North-East India,2023-04-13
+350,Ravi Kumar,Electronics,Pet Food,Karnataka,Raipur,Central India,2023-08-30
+351,Ravi Kumar,Mobile Accessories,Wrist Watch,Andhra Pradesh,Vijayawada,East India,2023-09-20
+352,Suresh Babu,Sports Equipment,Bed Mattress,Karnataka,Dewas,South India,2023-08-13
+353,Anand Subramanian,Jewelry,Sneakers,Telangana,Bengaluru,West India,2023-09-26
+354,Mahesh Bhat,Stationery,Bluetooth Speaker,Kerala,Ratlam,South India,2023-01-24
+355,Aayush Pateriya,Kitchenware,T-Shirt,Chhattisgarh,Tiruchirappalli,North-East India,2023-11-19
+356,Venkatesh Rao,Health Products,Football,Kerala,Raipur,South-East India,2023-04-03
+357,Arjun Reddy,Sports Equipment,Smartwatch,Chhattisgarh,Kurnool,North-East India,2023-07-16
+358,Vijay Prakash,Automotive Accessories,Cricket Bat,Tamil Nadu,Tirupati,North India,2023-04-28
+359,Venkatesh Rao,Office Supplies,Office Chair,Telangana,Ambikapur,West India,2023-05-06
+360,Ravi Kumar,Kitchenware,Keyboard,Karnataka,Ambikapur,East India,2023-06-12
+361,Arjun Reddy,Groceries,Washing Machine,Chhattisgarh,Vellore,North India,2023-12-12
+362,Suresh Babu,Clothing,Backpack,Tamil Nadu,Sehore,North India,2023-07-27
+363,Mahesh Bhat,Clothing,Cricket Bat,Madhya Pradesh,Bhopal,South India,2023-07-02
+364,Aayush Pateriya,Electronics,Diapers,Chhattisgarh,Vellore,West India,2023-04-04
+365,Vijay Prakash,Jewelry,Football,Karnataka,Indore,Eastern Ghats Region,2023-04-28
+366,Vijay Prakash,Baby Products,Wallet,Karnataka,Thiruvananthapuram,North-West India,2023-04-23
+367,Arjun Reddy,Groceries,Microwave Oven,Andhra Pradesh,Bengaluru,North India,2023-06-08
+368,Ravi Kumar,Mobile Accessories,Handbag,Madhya Pradesh,Bengaluru,North India,2023-08-02
+369,Arjun Reddy,Groceries,Tablet,Andhra Pradesh,Tiruchirappalli,Eastern Ghats Region,2023-10-09
+370,Aayush Pateriya,Automotive Accessories,Wardrobe,Chhattisgarh,Bengaluru,North-West India,2023-11-06
+371,Aayush Pateriya,Automotive Accessories,Television,Andhra Pradesh,Mysuru,North India,2023-02-24
+372,Suresh Babu,Mobile Accessories,Baby Stroller,Madhya Pradesh,Dewas,South-East India,2023-08-20
+373,Aayush Pateriya,Footwear,Wrist Watch,Madhya Pradesh,Salem,North India,2023-12-20
+374,Venkatesh Rao,Health Products,Television,Kerala,Bengaluru,East India,2023-09-28
+375,Mahesh Bhat,Furniture,Microwave Oven,Chhattisgarh,Visakhapatnam,East India,2023-07-18
+376,Arjun Reddy,Groceries,Dining Table,Madhya Pradesh,Mysuru,Central India,2023-12-20
+377,Anand Subramanian,Kitchenware,Garden Hose,Kerala,Warangal,South-West India,2023-01-15
+378,Suresh Babu,Mobile Accessories,Tennis Racket,Andhra Pradesh,Jabalpur,North-West India,2023-07-17
+379,Aayush Pateriya,Jewelry,Washing Machine,Karnataka,Hubballi,East India,2023-08-06
+380,Vijay Prakash,Health Products,Notebook,Chhattisgarh,Vijayawada,Eastern Ghats Region,2023-06-25
+381,Karthik Iyer,Footwear,Tablet,Chhattisgarh,Madurai,West India,2023-10-23
+382,Vijay Prakash,Home Appliances,Sneakers,Telangana,Erode,Eastern Ghats Region,2023-10-26
+383,Vijay Prakash,Garden Supplies,Wardrobe,Tamil Nadu,Kozhikode,South-West India,2023-02-25
+384,Suresh Babu,Toys,Electric Kettle,Tamil Nadu,Bhopal,Central India,2023-09-17
+385,Anand Subramanian,Toys,Wrist Watch,Madhya Pradesh,Indore,South India,2023-12-15
+386,Venkatesh Rao,Health Products,Mixer Grinder,Chhattisgarh,Durg,Eastern Ghats Region,2023-08-16
+387,Arjun Reddy,Home Appliances,Frying Pan,Tamil Nadu,Satna,West India,2023-05-04
+388,Karthik Iyer,Garden Supplies,Wrist Watch,Karnataka,Madurai,South-West India,2023-02-06
+389,Anand Subramanian,Home Appliances,Diapers,Andhra Pradesh,Kurnool,South India,2023-04-19
+390,Venkatesh Rao,Home Appliances,Yoga Mat,Chhattisgarh,Satna,North-West India,2023-07-06
+391,Anand Subramanian,Footwear,Sunglasses,Karnataka,Chhindwara,South-West India,2023-10-27
+392,Mahesh Bhat,Kitchenware,Frying Pan,Chhattisgarh,Thrissur,South-West India,2023-09-13
+393,Arjun Reddy,Mobile Accessories,Sofa,Telangana,Ujjain,South-East India,2023-06-07
+394,Mahesh Bhat,Books,Water Bottle,Madhya Pradesh,Ujjain,Eastern Ghats Region,2023-06-06
+395,Ravi Kumar,Beauty Products,Notebook,Kerala,Madurai,Eastern Ghats Region,2023-10-06
+396,Arjun Reddy,Home Appliances,Water Purifier,Telangana,Warangal,South-West India,2023-09-20
+397,Mahesh Bhat,Garden Supplies,Washing Machine,Telangana,Satna,North-East India,2023-10-14
+398,Anand Subramanian,Groceries,Jeans,Tamil Nadu,Jagdalpur,North-East India,2023-09-18
+399,Venkatesh Rao,Books,Office Chair,Madhya Pradesh,Bhopal,North-East India,2023-01-29
+400,Arjun Reddy,Garden Supplies,Dumbbells,Madhya Pradesh,Hyderabad,South-East India,2023-01-24
+401,Karthik Iyer,Garden Supplies,USB Flash Drive,Telangana,Satna,North-West India,2023-06-11
+402,Karthik Iyer,Furniture,Mixer Grinder,Karnataka,Jabalpur,North India,2023-05-02
+403,Venkatesh Rao,Automotive Accessories,Television,Tamil Nadu,Satna,South-West India,2023-04-11
+404,Aayush Pateriya,Furniture,Dumbbells,Karnataka,Bhopal,East India,2023-11-07
+405,Mahesh Bhat,Office Supplies,Printer,Andhra Pradesh,Thrissur,South-East India,2023-05-02
+406,Arjun Reddy,Kitchenware,Printer,Madhya Pradesh,Vijayawada,South India,2023-09-07
+407,Aayush Pateriya,Electronics,Air Conditioner,Chhattisgarh,Ujjain,Central India,2023-06-14
+408,Aayush Pateriya,Health Products,Washing Machine,Telangana,Chhindwara,North India,2023-02-07
+409,Aayush Pateriya,Kitchenware,Wallet,Tamil Nadu,Salem,South India,2023-12-13
+410,Karthik Iyer,Pet Supplies,Vacuum Cleaner,Karnataka,Kozhikode,East India,2023-12-15
+411,Suresh Babu,Home Appliances,T-Shirt,Telangana,Dewas,Eastern Ghats Region,2023-02-08
+412,Suresh Babu,Toys,Notebook,Madhya Pradesh,Ratlam,South-West India,2023-05-05
+413,Ravi Kumar,Stationery,Computer Mouse,Chhattisgarh,Bhilai,West India,2023-12-28
+414,Mahesh Bhat,Home Appliances,Sunglasses,Madhya Pradesh,Udupi,North-East India,2023-05-22
+415,Suresh Babu,Groceries,Yoga Mat,Tamil Nadu,Hyderabad,North India,2023-02-20
+416,Venkatesh Rao,Home Appliances,Notebook,Chhattisgarh,Kochi,East India,2023-12-31
+417,Venkatesh Rao,Pet Supplies,Sandals,Chhattisgarh,Khandwa,South-East India,2023-09-03
+418,Anand Subramanian,Baby Products,Pressure Cooker,Madhya Pradesh,Khandwa,North India,2023-06-13
+419,Suresh Babu,Kitchenware,Sofa,Karnataka,Jabalpur,Central India,2023-08-26
+420,Ravi Kumar,Automotive Accessories,Smartwatch,Chhattisgarh,Rewa,Eastern Ghats Region,2023-07-17
+421,Karthik Iyer,Clothing,Microwave Oven,Karnataka,Kochi,West India,2023-12-31
+422,Vijay Prakash,Mobile Accessories,Frying Pan,Andhra Pradesh,Gwalior,North-West India,2023-05-29
+423,Ravi Kumar,Jewelry,Cricket Bat,Karnataka,Dewas,East India,2024-01-01
+424,Suresh Babu,Office Supplies,T-Shirt,Telangana,Mysuru,North-East India,2023-08-31
+425,Anand Subramanian,Beauty Products,Refrigerator,Karnataka,Hyderabad,North-East India,2023-10-30
+426,Arjun Reddy,Automotive Accessories,Mixer Grinder,Karnataka,Warangal,East India,2023-12-10
+427,Arjun Reddy,Pet Supplies,Pressure Cooker,Madhya Pradesh,Raipur,South-West India,2023-12-03
+428,Anand Subramanian,Jewelry,Computer Mouse,Chhattisgarh,Warangal,West India,2023-07-23
+429,Aayush Pateriya,Sports Equipment,Cookware Set,Tamil Nadu,Visakhapatnam,West India,2023-03-21
+430,Arjun Reddy,Pet Supplies,Mixer Grinder,Chhattisgarh,Ratlam,West India,2023-01-17
+431,Suresh Babu,Furniture,Dinner Set,Andhra Pradesh,Warangal,South India,2023-07-23
+432,Ravi Kumar,Toys,Tablet,Telangana,Kozhikode,South-East India,2023-04-17
+433,Suresh Babu,Health Products,Microwave Oven,Telangana,Sehore,North India,2023-09-24
+434,Arjun Reddy,Books,Pressure Cooker,Karnataka,Indore,South-East India,2023-02-23
+435,Anand Subramanian,Furniture,Television,Chhattisgarh,Burhanpur,South-East India,2023-01-20
+436,Arjun Reddy,Sports Equipment,Handbag,Tamil Nadu,Korba,West India,2023-04-26
+437,Mahesh Bhat,Books,Tennis Racket,Tamil Nadu,Coimbatore,South-West India,2023-04-22
+438,Aayush Pateriya,Office Supplies,Refrigerator,Telangana,Warangal,West India,2023-10-04
+439,Venkatesh Rao,Kitchenware,Printer,Andhra Pradesh,Durg,North India,2023-09-26
+440,Suresh Babu,Sports Equipment,Cookware Set,Karnataka,Dhamtari,North-East India,2023-09-27
+441,Ravi Kumar,Clothing,Headphones,Kerala,Kochi,East India,2023-05-23
+442,Vijay Prakash,Footwear,Diapers,Tamil Nadu,Dewas,West India,2023-05-17
+443,Vijay Prakash,Mobile Accessories,Diapers,Andhra Pradesh,Ujjain,South India,2023-04-23
+444,Anand Subramanian,Sports Equipment,Garden Hose,Karnataka,Kochi,North-East India,2023-05-25
+445,Mahesh Bhat,Electronics,Smartwatch,Chhattisgarh,Udupi,Eastern Ghats Region,2023-06-14
+446,Mahesh Bhat,Clothing,Baby Stroller,Kerala,Hubballi,North-West India,2023-10-07
+447,Vijay Prakash,Toys,Headphones,Chhattisgarh,Khandwa,Eastern Ghats Region,2023-09-26
+448,Mahesh Bhat,Garden Supplies,Baby Stroller,Telangana,Salem,Central India,2023-08-06
+449,Mahesh Bhat,Baby Products,Tennis Racket,Andhra Pradesh,Gwalior,South India,2023-05-26
+450,Karthik Iyer,Electronics,Sunglasses,Kerala,Gwalior,North-East India,2023-01-31
+451,Anand Subramanian,Clothing,Mixer Grinder,Chhattisgarh,Tiruchirappalli,East India,2023-02-18
+452,Anand Subramanian,Toys,Sandals,Karnataka,Madurai,Central India,2023-02-18
+453,Venkatesh Rao,Garden Supplies,Air Conditioner,Telangana,Madurai,South-West India,2023-12-09
+454,Karthik Iyer,Automotive Accessories,Bluetooth Speaker,Karnataka,Erode,North-East India,2023-09-27
+455,Ravi Kumar,Clothing,Computer Mouse,Andhra Pradesh,Kurnool,Central India,2023-11-24
+456,Mahesh Bhat,Electronics,Dinner Set,Karnataka,Bhilai,South-West India,2023-02-15
+457,Suresh Babu,Garden Supplies,Sunglasses,Andhra Pradesh,Warangal,South-East India,2023-08-26
+458,Anand Subramanian,Pet Supplies,Yoga Mat,Andhra Pradesh,Mahasamund,East India,2023-02-09
+459,Ravi Kumar,Jewelry,Dumbbells,Karnataka,Thiruvananthapuram,East India,2023-03-26
+460,Suresh Babu,Office Supplies,Water Bottle,Kerala,Chhindwara,South India,2023-05-28
+461,Ravi Kumar,Garden Supplies,Refrigerator,Telangana,Kozhikode,North India,2023-03-09
+462,Anand Subramanian,Office Supplies,Dining Table,Kerala,Visakhapatnam,South-West India,2023-09-11
+463,Anand Subramanian,Garden Supplies,Keyboard,Tamil Nadu,Rewa,Central India,2023-01-10
+464,Suresh Babu,Pet Supplies,Headphones,Karnataka,Durg,West India,2023-07-25
+465,Mahesh Bhat,Stationery,Microwave Oven,Telangana,Rajnandgaon,North India,2023-10-29
+466,Mahesh Bhat,Books,Tennis Racket,Kerala,Gwalior,East India,2023-01-04
+467,Suresh Babu,Home Appliances,Tennis Racket,Andhra Pradesh,Udupi,South-West India,2023-09-23
+468,Aayush Pateriya,Jewelry,USB Flash Drive,Karnataka,Rajnandgaon,South-East India,2023-04-19
+469,Arjun Reddy,Jewelry,Washing Machine,Karnataka,Jagdalpur,North-East India,2023-09-17
+470,Aayush Pateriya,Home Appliances,Garden Hose,Madhya Pradesh,Tiruchirappalli,South India,2023-02-23
+471,Aayush Pateriya,Automotive Accessories,Garden Hose,Andhra Pradesh,Belagavi,East India,2023-04-11
+472,Aayush Pateriya,Jewelry,Football,Madhya Pradesh,Indore,North-East India,2023-03-13
+473,Venkatesh Rao,Toys,Mixer Grinder,Tamil Nadu,Tiruchirappalli,North-West India,2023-04-30
+474,Venkatesh Rao,Electronics,Sunglasses,Chhattisgarh,Khandwa,South-West India,2023-08-16
+475,Mahesh Bhat,Sports Equipment,Notebook,Tamil Nadu,Hyderabad,Central India,2023-05-24
+476,Vijay Prakash,Baby Products,Jeans,Karnataka,Ambikapur,Eastern Ghats Region,2023-10-30
+477,Vijay Prakash,Sports Equipment,Bed Mattress,Madhya Pradesh,Vellore,South-East India,2023-05-28
+478,Arjun Reddy,Garden Supplies,Frying Pan,Karnataka,Jabalpur,Eastern Ghats Region,2023-12-28
+479,Mahesh Bhat,Beauty Products,Air Conditioner,Telangana,Guntur,East India,2023-05-18
+480,Vijay Prakash,Automotive Accessories,Bed Mattress,Karnataka,Hubballi,South-East India,2023-08-24
+481,Ravi Kumar,Electronics,Wallet,Andhra Pradesh,Bengaluru,North India,2023-01-05
+482,Mahesh Bhat,Health Products,Water Bottle,Tamil Nadu,Bengaluru,North-West India,2023-06-02
+483,Arjun Reddy,Garden Supplies,Jacket,Telangana,Kurnool,East India,2023-08-26
+484,Anand Subramanian,Books,Cricket Bat,Andhra Pradesh,Ratlam,Eastern Ghats Region,2023-07-01
+485,Venkatesh Rao,Health Products,Tennis Racket,Chhattisgarh,Rewa,North-West India,2023-02-07
+486,Aayush Pateriya,Home Appliances,Tablet,Karnataka,Chennai,North India,2023-08-05
+487,Aayush Pateriya,Footwear,Tablet,Karnataka,Mahasamund,South India,2023-04-23
+488,Arjun Reddy,Clothing,Laptop,Tamil Nadu,Vellore,South-East India,2023-08-01
+489,Suresh Babu,Clothing,Backpack,Telangana,Mangaluru,North India,2023-10-17
+490,Vijay Prakash,Groceries,Dog Leash,Tamil Nadu,Coimbatore,West India,2023-11-28
+491,Arjun Reddy,Stationery,Dining Table,Madhya Pradesh,Coimbatore,North India,2023-03-03
+492,Mahesh Bhat,Automotive Accessories,Backpack,Karnataka,Warangal,West India,2023-03-30
+493,Anand Subramanian,Footwear,Notebook,Karnataka,Salem,North-West India,2023-01-03
+494,Venkatesh Rao,Baby Products,T-Shirt,Andhra Pradesh,Khandwa,South-East India,2023-09-27
+495,Suresh Babu,Kitchenware,Washing Machine,Kerala,Hubballi,West India,2023-03-20
+496,Venkatesh Rao,Mobile Accessories,Wardrobe,Andhra Pradesh,Dhamtari,South India,2023-11-01
+497,Anand Subramanian,Kitchenware,Printer,Telangana,Chennai,South-East India,2023-03-05
+498,Venkatesh Rao,Beauty Products,Dining Table,Chhattisgarh,Hyderabad,South-West India,2023-12-21
+499,Karthik Iyer,Automotive Accessories,Cricket Bat,Kerala,Sehore,South India,2023-11-14
+500,Mahesh Bhat,Baby Products,Keyboard,Kerala,Visakhapatnam,North India,2023-10-28
+501,Suresh Babu,Footwear,Dog Leash,Kerala,Thiruvananthapuram,South-East India,2023-05-23
+502,Anand Subramanian,Sports Equipment,Printer,Andhra Pradesh,Khandwa,Central India,2023-03-16
+503,Vijay Prakash,Baby Products,Diapers,Kerala,Kochi,West India,2023-09-07
+504,Arjun Reddy,Automotive Accessories,Microwave Oven,Andhra Pradesh,Coimbatore,North-East India,2023-11-28
+505,Aayush Pateriya,Furniture,Garden Hose,Tamil Nadu,Ujjain,South-East India,2023-01-19
+506,Vijay Prakash,Groceries,Dining Table,Telangana,Udupi,East India,2023-01-21
+507,Ravi Kumar,Groceries,Notebook,Andhra Pradesh,Vidisha,North-West India,2023-09-23
+508,Ravi Kumar,Clothing,Pressure Cooker,Madhya Pradesh,Jagdalpur,North-East India,2023-04-21
+509,Vijay Prakash,Baby Products,Water Purifier,Andhra Pradesh,Vellore,East India,2023-09-16
+510,Venkatesh Rao,Stationery,Office Chair,Telangana,Ambikapur,East India,2023-07-12
+511,Aayush Pateriya,Garden Supplies,Baby Stroller,Andhra Pradesh,Thiruvananthapuram,South India,2023-02-02
+512,Vijay Prakash,Books,Microwave Oven,Andhra Pradesh,Belagavi,South India,2023-06-21
+513,Karthik Iyer,Sports Equipment,Sofa,Karnataka,Hyderabad,North India,2023-10-19
+514,Aayush Pateriya,Toys,Football,Kerala,Burhanpur,Central India,2023-08-16
+515,Arjun Reddy,Pet Supplies,Cookware Set,Tamil Nadu,Ratlam,South-East India,2023-01-07
+516,Anand Subramanian,Jewelry,Diapers,Madhya Pradesh,Bhilai,South-East India,2023-11-11
+517,Karthik Iyer,Mobile Accessories,Printer,Andhra Pradesh,Dharwad,South-West India,2023-08-15
+518,Aayush Pateriya,Garden Supplies,Laptop,Karnataka,Sagar,Central India,2023-10-16
+519,Arjun Reddy,Groceries,Keyboard,Kerala,Udupi,Central India,2023-02-05
+520,Aayush Pateriya,Books,Bed Mattress,Tamil Nadu,Belagavi,West India,2023-10-23
+521,Anand Subramanian,Garden Supplies,Keyboard,Karnataka,Warangal,South-East India,2023-04-20
+522,Suresh Babu,Stationery,Water Purifier,Telangana,Sagar,East India,2023-03-11
+523,Arjun Reddy,Kitchenware,Water Purifier,Telangana,Tiruchirappalli,North-East India,2023-06-29
+524,Venkatesh Rao,Garden Supplies,Pressure Cooker,Kerala,Burhanpur,Central India,2023-10-18
+525,Mahesh Bhat,Clothing,Cricket Bat,Tamil Nadu,Salem,South-East India,2023-09-03
+526,Suresh Babu,Automotive Accessories,Frying Pan,Madhya Pradesh,Raipur,North India,2023-01-24
+527,Karthik Iyer,Toys,Bluetooth Speaker,Tamil Nadu,Dewas,South India,2023-12-10
+528,Venkatesh Rao,Automotive Accessories,Diapers,Telangana,Mahasamund,South-East India,2023-03-25
+529,Aayush Pateriya,Baby Products,Air Conditioner,Karnataka,Madurai,South India,2023-03-26
+530,Mahesh Bhat,Books,Tennis Racket,Tamil Nadu,Chennai,South-East India,2023-02-09
+531,Venkatesh Rao,Groceries,Pet Food,Karnataka,Sagar,Central India,2023-04-22
+532,Arjun Reddy,Toys,Sandals,Andhra Pradesh,Rewa,East India,2023-10-30
+533,Vijay Prakash,Health Products,Frying Pan,Telangana,Warangal,North-West India,2023-12-06
+534,Vijay Prakash,Jewelry,T-Shirt,Kerala,Kozhikode,East India,2023-11-13
+535,Suresh Babu,Baby Products,Sneakers,Tamil Nadu,Burhanpur,Eastern Ghats Region,2023-10-14
+536,Anand Subramanian,Jewelry,Sunglasses,Tamil Nadu,Ratlam,South-East India,2023-03-19
+537,Suresh Babu,Toys,Yoga Mat,Chhattisgarh,Chennai,Eastern Ghats Region,2023-12-29
+538,Mahesh Bhat,Pet Supplies,Pressure Cooker,Kerala,Vidisha,North India,2023-06-30
+539,Karthik Iyer,Baby Products,Smartphone,Telangana,Ratlam,South-West India,2023-03-11
+540,Vijay Prakash,Automotive Accessories,Office Chair,Chhattisgarh,Bhilai,North India,2023-12-03
+541,Mahesh Bhat,Mobile Accessories,Television,Telangana,Raipur,South-East India,2023-08-06
+542,Vijay Prakash,Sports Equipment,Smartwatch,Kerala,Bengaluru,North-East India,2023-11-05
+543,Ravi Kumar,Jewelry,Sofa,Kerala,Kurnool,South India,2023-07-18
+544,Vijay Prakash,Sports Equipment,Laptop,Kerala,Burhanpur,North-West India,2023-10-04
+545,Karthik Iyer,Health Products,Diapers,Karnataka,Gwalior,East India,2023-11-16
+546,Karthik Iyer,Office Supplies,Handbag,Kerala,Sehore,Eastern Ghats Region,2023-05-19
+547,Karthik Iyer,Automotive Accessories,Television,Karnataka,Hyderabad,South-East India,2023-11-23
+548,Anand Subramanian,Health Products,Baby Stroller,Karnataka,Mangaluru,West India,2023-03-24
+549,Mahesh Bhat,Sports Equipment,Computer Mouse,Karnataka,Bhilai,Central India,2023-04-26
+550,Arjun Reddy,Groceries,Mixer Grinder,Madhya Pradesh,Jagdalpur,South India,2023-11-26
+551,Mahesh Bhat,Baby Products,Refrigerator,Andhra Pradesh,Hubballi,North-West India,2023-06-01
+552,Aayush Pateriya,Garden Supplies,Electric Kettle,Tamil Nadu,Tiruchirappalli,North India,2023-12-26
+553,Mahesh Bhat,Beauty Products,Keyboard,Madhya Pradesh,Hubballi,East India,2023-03-24
+554,Karthik Iyer,Health Products,Dining Table,Kerala,Hubballi,South-West India,2023-04-25
+555,Anand Subramanian,Mobile Accessories,Sandals,Kerala,Guntur,Eastern Ghats Region,2023-07-14
+556,Vijay Prakash,Groceries,Sunglasses,Telangana,Mahasamund,South-West India,2023-05-12
+557,Vijay Prakash,Books,Keyboard,Karnataka,Madurai,South-West India,2023-12-24
+558,Arjun Reddy,Furniture,Pet Food,Kerala,Sehore,West India,2023-11-03
+559,Aayush Pateriya,Kitchenware,Wardrobe,Telangana,Kurnool,North-East India,2023-06-03
+560,Aayush Pateriya,Mobile Accessories,Wallet,Chhattisgarh,Sagar,North-West India,2023-01-07
+561,Venkatesh Rao,Kitchenware,Electric Kettle,Karnataka,Vellore,North India,2023-03-23
+562,Ravi Kumar,Footwear,Bed Mattress,Chhattisgarh,Rewa,North-West India,2023-11-14
+563,Arjun Reddy,Pet Supplies,Office Chair,Kerala,Kurnool,East India,2023-03-06
+564,Vijay Prakash,Sports Equipment,Smartphone,Kerala,Indore,North India,2023-06-21
+565,Venkatesh Rao,Beauty Products,Handbag,Kerala,Chennai,North-West India,2023-09-26
+566,Vijay Prakash,Electronics,Cookware Set,Telangana,Vidisha,North-East India,2023-08-02
+567,Suresh Babu,Kitchenware,Dinner Set,Karnataka,Burhanpur,North-West India,2023-12-28
+568,Suresh Babu,Books,Air Conditioner,Karnataka,Dharwad,South India,2023-08-03
+569,Arjun Reddy,Health Products,Handbag,Tamil Nadu,Warangal,West India,2023-03-14
+570,Karthik Iyer,Mobile Accessories,Pressure Cooker,Chhattisgarh,Bilaspur,West India,2023-07-13
+571,Vijay Prakash,Home Appliances,Dining Table,Andhra Pradesh,Dewas,South-East India,2023-02-13
+572,Karthik Iyer,Clothing,Refrigerator,Kerala,Durg,North-West India,2023-08-16
+573,Karthik Iyer,Electronics,Handbag,Madhya Pradesh,Kochi,West India,2023-11-02
+574,Suresh Babu,Groceries,Television,Telangana,Vijayawada,East India,2023-11-25
+575,Karthik Iyer,Home Appliances,Smartwatch,Andhra Pradesh,Thrissur,North India,2023-12-18
+576,Anand Subramanian,Groceries,Sofa,Madhya Pradesh,Vellore,Central India,2023-05-18
+577,Aayush Pateriya,Office Supplies,Yoga Mat,Tamil Nadu,Vidisha,Central India,2023-12-24
+578,Venkatesh Rao,Pet Supplies,Yoga Mat,Andhra Pradesh,Rajnandgaon,East India,2023-05-26
+579,Arjun Reddy,Footwear,Washing Machine,Madhya Pradesh,Guntur,Eastern Ghats Region,2023-05-27
+580,Mahesh Bhat,Home Appliances,Bluetooth Speaker,Karnataka,Satna,North-West India,2023-04-11
+581,Venkatesh Rao,Groceries,Pressure Cooker,Tamil Nadu,Vijayawada,South-East India,2023-05-08
+582,Arjun Reddy,Baby Products,Wallet,Andhra Pradesh,Belagavi,North India,2023-05-09
+583,Suresh Babu,Footwear,Wardrobe,Andhra Pradesh,Tiruchirappalli,East India,2023-11-17
+584,Anand Subramanian,Health Products,Garden Hose,Kerala,Tirupati,Eastern Ghats Region,2023-05-20
+585,Suresh Babu,Pet Supplies,Handbag,Kerala,Kozhikode,South-East India,2023-08-15
+586,Ravi Kumar,Pet Supplies,Laptop,Telangana,Thiruvananthapuram,South-East India,2023-11-06
+587,Suresh Babu,Jewelry,Headphones,Andhra Pradesh,Bilaspur,North India,2023-01-25
+588,Karthik Iyer,Groceries,Keyboard,Karnataka,Chennai,Eastern Ghats Region,2023-01-05
+589,Anand Subramanian,Footwear,Keyboard,Chhattisgarh,Dhamtari,North India,2023-12-30
+590,Arjun Reddy,Pet Supplies,Keyboard,Andhra Pradesh,Dewas,East India,2023-07-21
+591,Vijay Prakash,Home Appliances,Jeans,Tamil Nadu,Jagdalpur,Central India,2023-07-28
+592,Karthik Iyer,Clothing,Water Purifier,Tamil Nadu,Bhilai,Central India,2023-06-06
+593,Vijay Prakash,Beauty Products,Laptop,Chhattisgarh,Kurnool,South India,2023-10-24
+594,Mahesh Bhat,Clothing,Yoga Mat,Telangana,Gwalior,Eastern Ghats Region,2023-07-31
+595,Mahesh Bhat,Garden Supplies,Sunglasses,Kerala,Coimbatore,Central India,2023-05-30
+596,Vijay Prakash,Footwear,Sandals,Tamil Nadu,Bhopal,West India,2023-04-21
+597,Karthik Iyer,Groceries,Frying Pan,Tamil Nadu,Hyderabad,Eastern Ghats Region,2023-07-05
+598,Mahesh Bhat,Pet Supplies,Handbag,Karnataka,Rajnandgaon,North India,2023-11-06
+599,Arjun Reddy,Books,Cookware Set,Telangana,Warangal,East India,2023-03-30
+600,Venkatesh Rao,Home Appliances,Dining Table,Karnataka,Tirupati,South-East India,2023-05-21
+601,Vijay Prakash,Electronics,Dog Leash,Kerala,Rewa,North-West India,2023-12-11
+602,Venkatesh Rao,Automotive Accessories,Mixer Grinder,Andhra Pradesh,Kochi,North-East India,2023-06-04
+603,Suresh Babu,Groceries,Notebook,Kerala,Mangaluru,North India,2023-06-15
+604,Karthik Iyer,Mobile Accessories,Vacuum Cleaner,Chhattisgarh,Bhilai,East India,2023-01-03
+605,Anand Subramanian,Office Supplies,Television,Chhattisgarh,Jabalpur,North India,2023-05-11
+606,Karthik Iyer,Beauty Products,Electric Kettle,Andhra Pradesh,Madurai,East India,2023-05-16
+607,Aayush Pateriya,Stationery,Washing Machine,Tamil Nadu,Udupi,North-West India,2023-11-18
+608,Venkatesh Rao,Mobile Accessories,Jacket,Kerala,Bengaluru,West India,2023-09-22
+609,Karthik Iyer,Mobile Accessories,Sneakers,Andhra Pradesh,Erode,South-West India,2023-07-16
+610,Ravi Kumar,Home Appliances,Jacket,Kerala,Jagdalpur,South-West India,2023-02-05
+611,Arjun Reddy,Kitchenware,Bluetooth Speaker,Andhra Pradesh,Durg,South-West India,2023-04-24
+612,Vijay Prakash,Toys,Air Conditioner,Chhattisgarh,Raipur,West India,2023-09-20
+613,Arjun Reddy,Toys,Sunglasses,Kerala,Sehore,East India,2023-11-10
+614,Vijay Prakash,Health Products,Baby Stroller,Chhattisgarh,Dharwad,North India,2023-03-21
+615,Mahesh Bhat,Footwear,Keyboard,Andhra Pradesh,Tirupati,South-East India,2023-07-30
+616,Aayush Pateriya,Clothing,Smartphone,Andhra Pradesh,Guntur,East India,2023-11-07
+617,Karthik Iyer,Office Supplies,Microwave Oven,Telangana,Indore,East India,2023-03-26
+618,Arjun Reddy,Health Products,Cookware Set,Chhattisgarh,Visakhapatnam,Central India,2023-06-21
+619,Suresh Babu,Home Appliances,Notebook,Telangana,Belagavi,West India,2023-03-30
+620,Vijay Prakash,Stationery,Jacket,Telangana,Warangal,South India,2023-08-09
+621,Arjun Reddy,Sports Equipment,Bed Mattress,Chhattisgarh,Erode,West India,2023-01-17
+622,Karthik Iyer,Baby Products,Printer,Madhya Pradesh,Sehore,South-West India,2023-05-05
+623,Karthik Iyer,Beauty Products,Tennis Racket,Madhya Pradesh,Rajnandgaon,North-East India,2023-10-01
+624,Anand Subramanian,Baby Products,Wallet,Karnataka,Vellore,North-West India,2023-09-20
+625,Suresh Babu,Office Supplies,Laptop,Telangana,Korba,Central India,2023-09-01
+626,Vijay Prakash,Kitchenware,Vacuum Cleaner,Andhra Pradesh,Jagdalpur,South-West India,2023-08-01
+627,Vijay Prakash,Home Appliances,Diapers,Andhra Pradesh,Dharwad,Eastern Ghats Region,2023-05-27
+628,Venkatesh Rao,Groceries,Sneakers,Madhya Pradesh,Jagdalpur,North-East India,2023-06-01
+629,Venkatesh Rao,Office Supplies,Baby Stroller,Telangana,Coimbatore,North-West India,2023-08-24
+630,Venkatesh Rao,Footwear,Sunglasses,Karnataka,Visakhapatnam,South-West India,2023-03-29
+631,Vijay Prakash,Health Products,Air Conditioner,Karnataka,Hubballi,North-East India,2023-07-21
+632,Mahesh Bhat,Health Products,Mixer Grinder,Andhra Pradesh,Rewa,South-East India,2023-07-30
+633,Karthik Iyer,Beauty Products,Cookware Set,Telangana,Madurai,East India,2023-03-09
+634,Vijay Prakash,Kitchenware,Football,Andhra Pradesh,Salem,South India,2023-03-07
+635,Vijay Prakash,Kitchenware,Dining Table,Chhattisgarh,Thrissur,East India,2023-10-01
+636,Ravi Kumar,Mobile Accessories,Microwave Oven,Kerala,Dewas,West India,2023-03-02
+637,Suresh Babu,Jewelry,Jeans,Madhya Pradesh,Indore,East India,2023-10-30
+638,Arjun Reddy,Home Appliances,Dog Leash,Chhattisgarh,Hubballi,North-East India,2023-11-22
+639,Vijay Prakash,Footwear,Dog Leash,Telangana,Dewas,North-East India,2023-10-17
+640,Suresh Babu,Mobile Accessories,Bed Mattress,Andhra Pradesh,Bhilai,North-East India,2023-05-05
+641,Suresh Babu,Clothing,Sneakers,Madhya Pradesh,Coimbatore,East India,2023-08-21
+642,Karthik Iyer,Jewelry,T-Shirt,Tamil Nadu,Bilaspur,East India,2023-02-17
+643,Aayush Pateriya,Electronics,Wallet,Telangana,Chhindwara,North India,2023-10-22
+644,Karthik Iyer,Jewelry,Notebook,Madhya Pradesh,Udupi,North-West India,2023-05-30
+645,Venkatesh Rao,Health Products,Water Bottle,Chhattisgarh,Raipur,North-East India,2023-12-10
+646,Vijay Prakash,Mobile Accessories,Vacuum Cleaner,Chhattisgarh,Satna,South India,2023-05-03
+647,Anand Subramanian,Health Products,Wrist Watch,Telangana,Vidisha,East India,2023-04-10
+648,Ravi Kumar,Beauty Products,Tablet,Tamil Nadu,Ujjain,North-East India,2023-01-23
+649,Karthik Iyer,Kitchenware,Football,Kerala,Hyderabad,North-East India,2023-07-17
+650,Vijay Prakash,Clothing,Vacuum Cleaner,Chhattisgarh,Kozhikode,Eastern Ghats Region,2023-04-08
+651,Karthik Iyer,Garden Supplies,Sandals,Madhya Pradesh,Thiruvananthapuram,South India,2023-03-14
+652,Arjun Reddy,Clothing,Printer,Telangana,Burhanpur,South India,2023-02-09
+653,Arjun Reddy,Toys,Wrist Watch,Chhattisgarh,Raipur,East India,2023-03-16
+654,Ravi Kumar,Beauty Products,Diapers,Karnataka,Thiruvananthapuram,West India,2023-01-18
+655,Aayush Pateriya,Beauty Products,Air Conditioner,Chhattisgarh,Erode,North India,2023-12-06
+656,Suresh Babu,Garden Supplies,Jacket,Kerala,Visakhapatnam,North-East India,2023-12-06
+657,Mahesh Bhat,Home Appliances,Sneakers,Madhya Pradesh,Jagdalpur,South India,2023-11-19
+658,Anand Subramanian,Groceries,Refrigerator,Telangana,Mahasamund,South India,2023-12-01
+659,Arjun Reddy,Office Supplies,T-Shirt,Chhattisgarh,Bengaluru,North-East India,2023-05-13
+660,Ravi Kumar,Clothing,Baby Stroller,Tamil Nadu,Hyderabad,South-West India,2023-04-05
+661,Mahesh Bhat,Kitchenware,Notebook,Kerala,Udupi,West India,2023-10-08
+662,Vijay Prakash,Baby Products,Sunglasses,Kerala,Visakhapatnam,West India,2023-07-17
+663,Vijay Prakash,Baby Products,Cricket Bat,Madhya Pradesh,Dharwad,South-West India,2023-06-03
+664,Suresh Babu,Footwear,Air Conditioner,Andhra Pradesh,Madurai,Central India,2023-05-24
+665,Anand Subramanian,Health Products,Bed Mattress,Karnataka,Tirupati,South India,2023-08-23
+666,Ravi Kumar,Furniture,Sunglasses,Karnataka,Rewa,East India,2023-05-10
+667,Suresh Babu,Electronics,Handbag,Madhya Pradesh,Rajnandgaon,Eastern Ghats Region,2023-06-04
+668,Mahesh Bhat,Home Appliances,Pressure Cooker,Andhra Pradesh,Thiruvananthapuram,West India,2023-09-26
+669,Ravi Kumar,Groceries,Microwave Oven,Madhya Pradesh,Mysuru,Central India,2023-04-19
+670,Vijay Prakash,Baby Products,Dog Leash,Tamil Nadu,Mysuru,North-West India,2023-11-29
+671,Aayush Pateriya,Clothing,Dining Table,Karnataka,Dharwad,North-West India,2023-10-24
+672,Vijay Prakash,Home Appliances,Sandals,Chhattisgarh,Jagdalpur,South-East India,2023-05-24
+673,Suresh Babu,Kitchenware,Football,Kerala,Kochi,Eastern Ghats Region,2023-08-22
+674,Karthik Iyer,Toys,T-Shirt,Kerala,Hubballi,South India,2023-01-05
+675,Venkatesh Rao,Kitchenware,Jeans,Telangana,Thrissur,Eastern Ghats Region,2023-04-29
+676,Karthik Iyer,Pet Supplies,Refrigerator,Andhra Pradesh,Bhilai,West India,2023-10-13
+677,Aayush Pateriya,Books,USB Flash Drive,Karnataka,Jagdalpur,East India,2023-01-09
+678,Vijay Prakash,Health Products,Air Conditioner,Andhra Pradesh,Ratlam,Eastern Ghats Region,2023-10-27
+679,Anand Subramanian,Groceries,Microwave Oven,Andhra Pradesh,Dhamtari,Central India,2023-11-18
+680,Aayush Pateriya,Home Appliances,Water Purifier,Tamil Nadu,Thiruvananthapuram,North-East India,2023-02-21
+681,Anand Subramanian,Baby Products,Notebook,Andhra Pradesh,Visakhapatnam,East India,2023-11-26
+682,Ravi Kumar,Clothing,Wallet,Andhra Pradesh,Gwalior,North-West India,2023-01-12
+683,Ravi Kumar,Toys,Dining Table,Kerala,Thiruvananthapuram,Eastern Ghats Region,2023-12-08
+684,Venkatesh Rao,Toys,Computer Mouse,Madhya Pradesh,Chhindwara,South-East India,2023-03-10
+685,Suresh Babu,Clothing,T-Shirt,Karnataka,Dewas,West India,2023-10-24
+686,Suresh Babu,Home Appliances,Sofa,Chhattisgarh,Thiruvananthapuram,South-East India,2023-06-26
+687,Suresh Babu,Baby Products,Water Purifier,Karnataka,Udupi,South India,2023-08-14
+688,Anand Subramanian,Jewelry,Pressure Cooker,Telangana,Mahasamund,Central India,2023-11-09
+689,Aayush Pateriya,Groceries,Frying Pan,Kerala,Dhamtari,North India,2023-10-11
+690,Vijay Prakash,Stationery,Microwave Oven,Telangana,Bhilai,North India,2023-11-23
+691,Arjun Reddy,Automotive Accessories,Sandals,Chhattisgarh,Erode,South-West India,2023-10-30
+692,Vijay Prakash,Stationery,Cricket Bat,Kerala,Kochi,South-East India,2023-01-13
+693,Arjun Reddy,Beauty Products,Wardrobe,Andhra Pradesh,Coimbatore,South-West India,2023-09-11
+694,Ravi Kumar,Clothing,T-Shirt,Chhattisgarh,Gwalior,East India,2023-05-19
+695,Suresh Babu,Electronics,Pressure Cooker,Andhra Pradesh,Dharwad,North India,2023-07-02
+696,Ravi Kumar,Health Products,Wrist Watch,Telangana,Vellore,North-West India,2023-12-04
+697,Anand Subramanian,Stationery,Headphones,Chhattisgarh,Sehore,South India,2023-07-31
+698,Aayush Pateriya,Pet Supplies,Dinner Set,Tamil Nadu,Dewas,North India,2023-05-16
+699,Mahesh Bhat,Stationery,Bed Mattress,Telangana,Bhilai,North-East India,2023-02-14
+700,Vijay Prakash,Kitchenware,Notebook,Karnataka,Tiruchirappalli,North India,2023-05-16
+701,Arjun Reddy,Home Appliances,Printer,Telangana,Vellore,South-East India,2023-06-12
+702,Aayush Pateriya,Garden Supplies,Mixer Grinder,Madhya Pradesh,Bilaspur,Central India,2023-05-12
+703,Anand Subramanian,Groceries,Baby Stroller,Telangana,Ujjain,North India,2023-12-03
+704,Aayush Pateriya,Mobile Accessories,Laptop,Karnataka,Hubballi,Central India,2023-02-14
+705,Vijay Prakash,Kitchenware,Yoga Mat,Telangana,Kurnool,North-West India,2023-10-06
+706,Venkatesh Rao,Office Supplies,Football,Chhattisgarh,Vijayawada,North-East India,2023-05-26
+707,Suresh Babu,Mobile Accessories,Jeans,Tamil Nadu,Visakhapatnam,West India,2023-01-27
+708,Venkatesh Rao,Automotive Accessories,Bluetooth Speaker,Madhya Pradesh,Dhamtari,North-East India,2023-11-03
+709,Aayush Pateriya,Garden Supplies,Pressure Cooker,Karnataka,Jagdalpur,North-West India,2023-05-20
+710,Venkatesh Rao,Home Appliances,Tablet,Chhattisgarh,Satna,Eastern Ghats Region,2023-09-10
+711,Vijay Prakash,Mobile Accessories,Wrist Watch,Madhya Pradesh,Indore,Eastern Ghats Region,2023-01-06
+712,Vijay Prakash,Home Appliances,Cookware Set,Kerala,Jabalpur,Central India,2023-02-28
+713,Mahesh Bhat,Home Appliances,Vacuum Cleaner,Kerala,Bengaluru,South-West India,2023-01-06
+714,Arjun Reddy,Furniture,Microwave Oven,Chhattisgarh,Rewa,Eastern Ghats Region,2023-10-12
+715,Ravi Kumar,Groceries,Jacket,Madhya Pradesh,Tiruchirappalli,Eastern Ghats Region,2023-10-13
+716,Venkatesh Rao,Pet Supplies,Wrist Watch,Telangana,Chhindwara,North-East India,2023-11-06
+717,Karthik Iyer,Baby Products,Yoga Mat,Andhra Pradesh,Hyderabad,North India,2023-10-07
+718,Vijay Prakash,Automotive Accessories,Wallet,Karnataka,Bhilai,East India,2023-08-15
+719,Ravi Kumar,Jewelry,Smartphone,Chhattisgarh,Vijayawada,Eastern Ghats Region,2023-02-09
+720,Vijay Prakash,Clothing,Yoga Mat,Telangana,Indore,Eastern Ghats Region,2023-01-18
+721,Aayush Pateriya,Automotive Accessories,Television,Madhya Pradesh,Mysuru,North India,2023-04-26
+722,Karthik Iyer,Pet Supplies,Baby Stroller,Kerala,Bilaspur,North-West India,2023-11-10
+723,Vijay Prakash,Garden Supplies,Football,Madhya Pradesh,Korba,South-West India,2023-01-03
+724,Venkatesh Rao,Books,Cricket Bat,Kerala,Belagavi,Central India,2023-11-18
+725,Karthik Iyer,Footwear,USB Flash Drive,Karnataka,Dewas,West India,2023-05-17
+726,Arjun Reddy,Home Appliances,Yoga Mat,Karnataka,Mangaluru,East India,2023-12-28
+727,Mahesh Bhat,Groceries,Dog Leash,Telangana,Bhopal,West India,2023-07-03
+728,Aayush Pateriya,Home Appliances,Garden Hose,Karnataka,Raipur,North India,2023-11-22
+729,Aayush Pateriya,Kitchenware,Printer,Chhattisgarh,Visakhapatnam,East India,2023-12-23
+730,Ravi Kumar,Sports Equipment,Cricket Bat,Telangana,Kozhikode,South India,2023-01-27
+731,Mahesh Bhat,Automotive Accessories,Wallet,Telangana,Sagar,Eastern Ghats Region,2023-09-12
+732,Anand Subramanian,Furniture,Sneakers,Karnataka,Thiruvananthapuram,North India,2023-09-11
+733,Suresh Babu,Clothing,Television,Karnataka,Chennai,Eastern Ghats Region,2023-02-05
+734,Mahesh Bhat,Home Appliances,Smartphone,Telangana,Udupi,West India,2023-05-28
+735,Anand Subramanian,Electronics,Sneakers,Karnataka,Erode,West India,2023-07-10
+736,Aayush Pateriya,Jewelry,Wrist Watch,Kerala,Erode,North-East India,2023-03-16
+737,Karthik Iyer,Office Supplies,Jeans,Andhra Pradesh,Kozhikode,West India,2023-12-19
+738,Arjun Reddy,Books,Keyboard,Telangana,Ujjain,East India,2023-08-01
+739,Vijay Prakash,Automotive Accessories,Dinner Set,Andhra Pradesh,Guntur,South India,2023-11-20
+740,Aayush Pateriya,Health Products,Dining Table,Chhattisgarh,Warangal,Eastern Ghats Region,2023-11-05
+741,Vijay Prakash,Clothing,Washing Machine,Karnataka,Chennai,East India,2023-06-02
+742,Anand Subramanian,Clothing,Handbag,Kerala,Visakhapatnam,North-East India,2023-03-08
+743,Aayush Pateriya,Baby Products,Washing Machine,Karnataka,Ambikapur,South India,2023-11-06
+744,Ravi Kumar,Baby Products,Backpack,Telangana,Dhamtari,West India,2023-02-01
+745,Venkatesh Rao,Baby Products,Wallet,Chhattisgarh,Dharwad,South-East India,2023-06-28
+746,Ravi Kumar,Furniture,Jacket,Chhattisgarh,Raipur,North-East India,2023-08-02
+747,Venkatesh Rao,Groceries,Tennis Racket,Kerala,Rajnandgaon,North-East India,2023-04-27
+748,Mahesh Bhat,Clothing,Washing Machine,Chhattisgarh,Burhanpur,South-East India,2023-06-08
+749,Venkatesh Rao,Groceries,Refrigerator,Madhya Pradesh,Sagar,South-West India,2023-05-16
+750,Karthik Iyer,Mobile Accessories,Water Purifier,Kerala,Kozhikode,South-East India,2023-12-15
+751,Mahesh Bhat,Automotive Accessories,Electric Kettle,Telangana,Satna,East India,2023-01-03
+752,Arjun Reddy,Clothing,Handbag,Karnataka,Mahasamund,Eastern Ghats Region,2023-10-23
+753,Aayush Pateriya,Stationery,Jacket,Madhya Pradesh,Salem,South-West India,2023-02-28
+754,Arjun Reddy,Furniture,Mixer Grinder,Andhra Pradesh,Kochi,East India,2023-06-18
+755,Venkatesh Rao,Home Appliances,Yoga Mat,Andhra Pradesh,Thrissur,East India,2023-07-15
+756,Suresh Babu,Clothing,Microwave Oven,Karnataka,Tirupati,South-West India,2023-08-25
+757,Arjun Reddy,Furniture,Wardrobe,Chhattisgarh,Khandwa,South-East India,2023-09-23
+758,Venkatesh Rao,Beauty Products,Backpack,Kerala,Tirupati,East India,2023-07-22
+759,Karthik Iyer,Office Supplies,Mixer Grinder,Telangana,Indore,West India,2023-06-11
+760,Mahesh Bhat,Stationery,Football,Tamil Nadu,Chennai,South-West India,2023-11-13
+761,Aayush Pateriya,Groceries,Wrist Watch,Madhya Pradesh,Bhopal,North-West India,2023-03-19
+762,Aayush Pateriya,Mobile Accessories,Frying Pan,Chhattisgarh,Rewa,North India,2023-05-22
+763,Venkatesh Rao,Garden Supplies,Football,Kerala,Rewa,South-East India,2023-11-03
+764,Karthik Iyer,Footwear,Cricket Bat,Kerala,Bengaluru,Central India,2023-09-18
+765,Arjun Reddy,Home Appliances,Football,Madhya Pradesh,Visakhapatnam,North India,2023-09-06
+766,Aayush Pateriya,Jewelry,Diapers,Andhra Pradesh,Ujjain,West India,2023-10-26
+767,Mahesh Bhat,Clothing,Cricket Bat,Tamil Nadu,Tiruchirappalli,North India,2023-09-03
+768,Vijay Prakash,Home Appliances,Sunglasses,Karnataka,Rajnandgaon,East India,2023-10-03
+769,Suresh Babu,Pet Supplies,Baby Stroller,Madhya Pradesh,Mahasamund,North-East India,2023-08-03
+770,Karthik Iyer,Stationery,Wallet,Telangana,Kurnool,South-West India,2023-03-05
+771,Anand Subramanian,Automotive Accessories,Frying Pan,Madhya Pradesh,Vellore,West India,2023-07-21
+772,Arjun Reddy,Toys,Air Conditioner,Telangana,Visakhapatnam,North-East India,2023-08-06
+773,Vijay Prakash,Furniture,Bed Mattress,Karnataka,Chhindwara,North India,2023-10-26
+774,Arjun Reddy,Health Products,Mixer Grinder,Tamil Nadu,Belagavi,Eastern Ghats Region,2023-10-01
+775,Aayush Pateriya,Jewelry,Sandals,Chhattisgarh,Sagar,East India,2023-09-13
+776,Ravi Kumar,Footwear,Smartwatch,Chhattisgarh,Hyderabad,West India,2023-04-13
+777,Suresh Babu,Footwear,Tennis Racket,Andhra Pradesh,Mahasamund,South-East India,2023-07-25
+778,Karthik Iyer,Toys,Sneakers,Karnataka,Guntur,North-East India,2023-11-13
+779,Arjun Reddy,Footwear,Backpack,Chhattisgarh,Durg,Eastern Ghats Region,2023-08-18
+780,Karthik Iyer,Stationery,Wardrobe,Karnataka,Dhamtari,South-West India,2023-03-09
+781,Vijay Prakash,Stationery,Water Bottle,Tamil Nadu,Ambikapur,North India,2023-11-20
+782,Mahesh Bhat,Jewelry,Mixer Grinder,Madhya Pradesh,Coimbatore,Eastern Ghats Region,2023-02-05
+783,Aayush Pateriya,Home Appliances,Microwave Oven,Telangana,Gwalior,East India,2023-10-31
+784,Anand Subramanian,Toys,Notebook,Tamil Nadu,Dewas,Eastern Ghats Region,2023-04-27
+785,Aayush Pateriya,Groceries,Air Conditioner,Chhattisgarh,Rajnandgaon,East India,2023-08-07
+786,Anand Subramanian,Pet Supplies,Pressure Cooker,Madhya Pradesh,Khandwa,South-East India,2023-03-25
+787,Mahesh Bhat,Health Products,Office Chair,Andhra Pradesh,Udupi,Eastern Ghats Region,2023-01-10
+788,Mahesh Bhat,Garden Supplies,Jeans,Madhya Pradesh,Bhopal,South-West India,2023-11-12
+789,Anand Subramanian,Books,Pet Food,Karnataka,Coimbatore,North India,2023-12-29
+790,Vijay Prakash,Groceries,Tablet,Kerala,Jabalpur,South India,2023-07-04
+791,Vijay Prakash,Baby Products,Dining Table,Madhya Pradesh,Hyderabad,Central India,2023-02-15
+792,Mahesh Bhat,Pet Supplies,Water Bottle,Kerala,Indore,Eastern Ghats Region,2023-12-22
+793,Venkatesh Rao,Health Products,Electric Kettle,Chhattisgarh,Kochi,South-West India,2023-01-24
+794,Suresh Babu,Books,Frying Pan,Andhra Pradesh,Dhamtari,Central India,2023-04-09
+795,Venkatesh Rao,Garden Supplies,Water Bottle,Andhra Pradesh,Khandwa,Eastern Ghats Region,2023-06-05
+796,Karthik Iyer,Groceries,Dumbbells,Telangana,Indore,East India,2023-04-11
+797,Suresh Babu,Beauty Products,Microwave Oven,Andhra Pradesh,Kurnool,East India,2023-09-11
+798,Arjun Reddy,Home Appliances,Tablet,Karnataka,Belagavi,Central India,2023-05-10
+799,Suresh Babu,Automotive Accessories,Sunglasses,Andhra Pradesh,Erode,Eastern Ghats Region,2023-12-28
+800,Arjun Reddy,Home Appliances,Washing Machine,Kerala,Kozhikode,North-East India,2023-11-28
+801,Karthik Iyer,Home Appliances,Garden Hose,Chhattisgarh,Belagavi,North-East India,2023-07-15
+802,Aayush Pateriya,Electronics,Sneakers,Kerala,Kozhikode,North India,2023-04-20
+803,Mahesh Bhat,Jewelry,Printer,Chhattisgarh,Rewa,South-East India,2023-01-10
+804,Vijay Prakash,Health Products,Backpack,Kerala,Ambikapur,East India,2023-02-27
+805,Anand Subramanian,Beauty Products,Sunglasses,Karnataka,Mahasamund,South-West India,2023-07-12
+806,Karthik Iyer,Garden Supplies,Jeans,Kerala,Chennai,Eastern Ghats Region,2023-03-22
+807,Vijay Prakash,Automotive Accessories,Tennis Racket,Karnataka,Warangal,South India,2023-01-28
+808,Suresh Babu,Electronics,Dog Leash,Andhra Pradesh,Rewa,West India,2023-01-19
+809,Mahesh Bhat,Garden Supplies,Refrigerator,Karnataka,Vellore,South India,2023-04-07
+810,Anand Subramanian,Sports Equipment,Water Bottle,Andhra Pradesh,Ratlam,North-East India,2023-12-28
+811,Mahesh Bhat,Groceries,Dumbbells,Kerala,Kurnool,West India,2023-07-26
+812,Aayush Pateriya,Garden Supplies,Notebook,Karnataka,Bengaluru,North-East India,2023-05-17
+813,Mahesh Bhat,Kitchenware,Sneakers,Kerala,Bengaluru,South-East India,2023-11-05
+814,Mahesh Bhat,Stationery,Tennis Racket,Tamil Nadu,Chhindwara,Eastern Ghats Region,2023-04-29
+815,Karthik Iyer,Mobile Accessories,Pet Food,Tamil Nadu,Sehore,South India,2023-06-01
+816,Mahesh Bhat,Groceries,Yoga Mat,Karnataka,Mahasamund,North-West India,2023-06-16
+817,Arjun Reddy,Automotive Accessories,Pressure Cooker,Chhattisgarh,Hyderabad,Eastern Ghats Region,2023-05-06
+818,Vijay Prakash,Garden Supplies,Cookware Set,Chhattisgarh,Hubballi,East India,2023-10-27
+819,Karthik Iyer,Kitchenware,Pet Food,Karnataka,Ratlam,North-West India,2023-11-10
+820,Vijay Prakash,Baby Products,Tablet,Madhya Pradesh,Tirupati,South-East India,2023-08-21
+821,Mahesh Bhat,Health Products,Dumbbells,Tamil Nadu,Bengaluru,Central India,2023-07-30
+822,Karthik Iyer,Stationery,Water Purifier,Tamil Nadu,Vellore,East India,2023-08-29
+823,Ravi Kumar,Beauty Products,T-Shirt,Telangana,Dharwad,West India,2023-07-20
+824,Vijay Prakash,Garden Supplies,Sneakers,Tamil Nadu,Chhindwara,North-West India,2023-11-30
+825,Aayush Pateriya,Toys,Sunglasses,Karnataka,Kurnool,North-East India,2023-01-06
+826,Mahesh Bhat,Groceries,Dog Leash,Karnataka,Kozhikode,North-East India,2023-11-13
+827,Aayush Pateriya,Automotive Accessories,Diapers,Chhattisgarh,Vijayawada,South-East India,2023-07-12
+828,Karthik Iyer,Groceries,Cricket Bat,Telangana,Visakhapatnam,East India,2023-02-04
+829,Aayush Pateriya,Furniture,Wrist Watch,Chhattisgarh,Bhopal,South-East India,2023-09-29
+830,Anand Subramanian,Home Appliances,Smartphone,Telangana,Rajnandgaon,North-East India,2023-07-24
+831,Arjun Reddy,Home Appliances,Wardrobe,Tamil Nadu,Hubballi,South-East India,2023-02-20
+832,Venkatesh Rao,Home Appliances,Washing Machine,Karnataka,Madurai,North India,2023-04-24
+833,Vijay Prakash,Toys,Dog Leash,Chhattisgarh,Salem,South India,2023-05-25
+834,Karthik Iyer,Footwear,Wallet,Telangana,Vellore,North-East India,2023-02-01
+835,Anand Subramanian,Groceries,Television,Andhra Pradesh,Tirupati,North-West India,2023-01-09
+836,Arjun Reddy,Mobile Accessories,Smartphone,Kerala,Durg,East India,2023-11-29
+837,Anand Subramanian,Beauty Products,Air Conditioner,Kerala,Visakhapatnam,Central India,2023-09-03
+838,Suresh Babu,Books,Yoga Mat,Andhra Pradesh,Bilaspur,East India,2023-12-13
+839,Arjun Reddy,Health Products,Television,Kerala,Sehore,Eastern Ghats Region,2023-05-29
+840,Arjun Reddy,Baby Products,Smartwatch,Chhattisgarh,Rajnandgaon,Eastern Ghats Region,2023-06-24
+841,Venkatesh Rao,Books,Sneakers,Madhya Pradesh,Jagdalpur,North India,2023-03-01
+842,Aayush Pateriya,Books,Water Purifier,Karnataka,Jagdalpur,North-East India,2023-04-20
+843,Ravi Kumar,Baby Products,Pet Food,Madhya Pradesh,Vidisha,South India,2023-09-07
+844,Karthik Iyer,Books,Handbag,Karnataka,Gwalior,Eastern Ghats Region,2023-04-17
+845,Suresh Babu,Sports Equipment,Baby Stroller,Tamil Nadu,Mysuru,South-East India,2023-06-20
+846,Aayush Pateriya,Stationery,Microwave Oven,Tamil Nadu,Indore,North India,2023-12-17
+847,Aayush Pateriya,Footwear,USB Flash Drive,Karnataka,Madurai,West India,2023-08-03
+848,Venkatesh Rao,Mobile Accessories,Computer Mouse,Chhattisgarh,Durg,North-West India,2023-04-30
+849,Arjun Reddy,Home Appliances,Washing Machine,Andhra Pradesh,Rajnandgaon,North India,2023-01-29
+850,Venkatesh Rao,Kitchenware,Refrigerator,Madhya Pradesh,Kochi,North India,2023-07-08
+851,Mahesh Bhat,Automotive Accessories,Keyboard,Telangana,Ambikapur,South-East India,2023-05-12
+852,Ravi Kumar,Books,Washing Machine,Tamil Nadu,Kurnool,Central India,2023-08-13
+853,Vijay Prakash,Electronics,Wallet,Karnataka,Guntur,South-West India,2023-10-22
+854,Venkatesh Rao,Home Appliances,Air Conditioner,Kerala,Jabalpur,Central India,2023-04-21
+855,Aayush Pateriya,Home Appliances,Dog Leash,Madhya Pradesh,Burhanpur,South India,2023-12-15
+856,Vijay Prakash,Stationery,Mixer Grinder,Kerala,Tiruchirappalli,North India,2023-03-09
+857,Suresh Babu,Pet Supplies,Wallet,Madhya Pradesh,Chennai,West India,2023-11-03
+858,Anand Subramanian,Office Supplies,Smartphone,Telangana,Hubballi,South India,2023-10-27
+859,Aayush Pateriya,Jewelry,Garden Hose,Chhattisgarh,Coimbatore,East India,2023-08-01
+860,Arjun Reddy,Toys,Wrist Watch,Tamil Nadu,Rajnandgaon,South-West India,2023-02-22
+861,Anand Subramanian,Baby Products,Smartwatch,Tamil Nadu,Korba,South-East India,2023-11-10
+862,Vijay Prakash,Mobile Accessories,Smartphone,Telangana,Raipur,South India,2023-01-08
+863,Venkatesh Rao,Clothing,Bed Mattress,Madhya Pradesh,Warangal,North-West India,2023-01-18
+864,Suresh Babu,Sports Equipment,Cookware Set,Telangana,Durg,North-East India,2023-10-23
+865,Anand Subramanian,Kitchenware,Computer Mouse,Andhra Pradesh,Bilaspur,North-West India,2023-11-15
+866,Arjun Reddy,Home Appliances,Laptop,Tamil Nadu,Gwalior,South-East India,2023-03-25
+867,Aayush Pateriya,Groceries,Water Purifier,Telangana,Rewa,Eastern Ghats Region,2023-04-08
+868,Suresh Babu,Stationery,Air Conditioner,Karnataka,Sagar,South-West India,2023-11-17
+869,Vijay Prakash,Health Products,Office Chair,Chhattisgarh,Vellore,East India,2023-11-15
+870,Ravi Kumar,Furniture,Dog Leash,Karnataka,Bengaluru,East India,2023-05-17
+871,Anand Subramanian,Groceries,Sofa,Kerala,Satna,South-East India,2023-10-21
+872,Suresh Babu,Electronics,Microwave Oven,Andhra Pradesh,Mysuru,South-West India,2023-07-30
+873,Mahesh Bhat,Furniture,Tennis Racket,Karnataka,Bhilai,South India,2023-05-08
+874,Karthik Iyer,Kitchenware,Microwave Oven,Chhattisgarh,Kozhikode,South-West India,2023-11-25
+875,Vijay Prakash,Pet Supplies,Baby Stroller,Andhra Pradesh,Vellore,Central India,2023-05-06
+876,Suresh Babu,Groceries,Dinner Set,Tamil Nadu,Ujjain,South-West India,2023-07-16
+877,Suresh Babu,Footwear,Computer Mouse,Kerala,Udupi,Central India,2023-01-24
+878,Mahesh Bhat,Sports Equipment,Sandals,Andhra Pradesh,Rajnandgaon,North-East India,2023-04-27
+879,Arjun Reddy,Beauty Products,Office Chair,Kerala,Hyderabad,East India,2023-03-11
+880,Vijay Prakash,Stationery,Sandals,Telangana,Raipur,South India,2023-07-22
+881,Aayush Pateriya,Mobile Accessories,Handbag,Madhya Pradesh,Madurai,North India,2023-10-24
+882,Anand Subramanian,Home Appliances,Wrist Watch,Madhya Pradesh,Erode,North India,2023-02-13
+883,Ravi Kumar,Footwear,Pressure Cooker,Tamil Nadu,Chhindwara,North-West India,2023-05-11
+884,Vijay Prakash,Footwear,Mixer Grinder,Telangana,Jagdalpur,South-West India,2023-11-29
+885,Arjun Reddy,Beauty Products,Frying Pan,Chhattisgarh,Burhanpur,Eastern Ghats Region,2023-11-15
+886,Arjun Reddy,Beauty Products,Baby Stroller,Kerala,Chhindwara,Eastern Ghats Region,2023-04-24
+887,Mahesh Bhat,Furniture,Office Chair,Chhattisgarh,Erode,South-West India,2023-09-13
+888,Karthik Iyer,Jewelry,Headphones,Andhra Pradesh,Jagdalpur,South-East India,2023-04-11
+889,Aayush Pateriya,Office Supplies,Electric Kettle,Madhya Pradesh,Rewa,South-West India,2023-04-16
+890,Aayush Pateriya,Kitchenware,Baby Stroller,Andhra Pradesh,Rewa,North India,2023-08-15
+891,Ravi Kumar,Electronics,Pressure Cooker,Kerala,Bilaspur,East India,2023-12-08
+892,Vijay Prakash,Furniture,Water Purifier,Tamil Nadu,Sehore,North-East India,2023-01-29
+893,Ravi Kumar,Office Supplies,Wrist Watch,Kerala,Chhindwara,Eastern Ghats Region,2023-02-09
+894,Arjun Reddy,Groceries,Sofa,Kerala,Satna,North-West India,2023-01-31
+895,Aayush Pateriya,Groceries,Smartphone,Kerala,Kozhikode,South-East India,2023-04-29
+896,Venkatesh Rao,Footwear,Sunglasses,Andhra Pradesh,Ambikapur,South-East India,2023-08-02
+897,Anand Subramanian,Garden Supplies,Notebook,Kerala,Visakhapatnam,South-East India,2023-06-29
+898,Arjun Reddy,Home Appliances,Frying Pan,Telangana,Rewa,Eastern Ghats Region,2023-02-24
+899,Venkatesh Rao,Home Appliances,Electric Kettle,Kerala,Erode,South-West India,2023-09-30
+900,Suresh Babu,Footwear,Washing Machine,Andhra Pradesh,Dhamtari,South-West India,2023-02-13
+901,Suresh Babu,Electronics,Electric Kettle,Madhya Pradesh,Dewas,North India,2023-11-29
+902,Venkatesh Rao,Kitchenware,T-Shirt,Telangana,Dharwad,West India,2023-07-18
+903,Suresh Babu,Footwear,Tablet,Telangana,Dhamtari,South India,2023-08-19
+904,Ravi Kumar,Health Products,Smartphone,Telangana,Korba,South India,2023-03-18
+905,Arjun Reddy,Health Products,Sofa,Kerala,Ratlam,South-West India,2023-01-19
+906,Vijay Prakash,Baby Products,T-Shirt,Telangana,Jagdalpur,North-East India,2023-10-07
+907,Arjun Reddy,Office Supplies,Jeans,Karnataka,Raipur,North-West India,2023-05-06
+908,Arjun Reddy,Automotive Accessories,Sandals,Andhra Pradesh,Tirupati,South India,2023-03-02
+909,Ravi Kumar,Pet Supplies,Bed Mattress,Andhra Pradesh,Rajnandgaon,South-East India,2023-06-29
+910,Venkatesh Rao,Baby Products,Smartwatch,Chhattisgarh,Erode,South-West India,2023-09-08
+911,Vijay Prakash,Jewelry,Sandals,Chhattisgarh,Durg,South India,2023-02-02
+912,Aayush Pateriya,Beauty Products,Wrist Watch,Karnataka,Kurnool,West India,2023-03-29
+913,Karthik Iyer,Beauty Products,Frying Pan,Karnataka,Bilaspur,South-West India,2023-02-11
+914,Suresh Babu,Mobile Accessories,Computer Mouse,Andhra Pradesh,Bilaspur,East India,2023-07-09
+915,Vijay Prakash,Health Products,Refrigerator,Tamil Nadu,Rewa,West India,2023-06-30
+916,Vijay Prakash,Footwear,Bluetooth Speaker,Tamil Nadu,Tiruchirappalli,Central India,2023-01-20
+917,Mahesh Bhat,Stationery,Wallet,Telangana,Khandwa,West India,2023-01-29
+918,Suresh Babu,Clothing,Dumbbells,Madhya Pradesh,Dewas,North-West India,2023-11-14
+919,Ravi Kumar,Groceries,Pressure Cooker,Madhya Pradesh,Jabalpur,South India,2023-09-07
+920,Karthik Iyer,Sports Equipment,Refrigerator,Karnataka,Raipur,West India,2023-11-25
+921,Vijay Prakash,Jewelry,Cricket Bat,Chhattisgarh,Jagdalpur,North-East India,2023-11-20
+922,Karthik Iyer,Jewelry,Sneakers,Chhattisgarh,Indore,South India,2023-09-17
+923,Aayush Pateriya,Mobile Accessories,Dining Table,Madhya Pradesh,Hyderabad,East India,2023-08-12
+924,Mahesh Bhat,Garden Supplies,Dumbbells,Telangana,Rewa,South India,2023-11-11
+925,Arjun Reddy,Jewelry,Notebook,Karnataka,Chennai,Central India,2023-12-19
+926,Mahesh Bhat,Mobile Accessories,Keyboard,Karnataka,Vidisha,South India,2023-04-24
+927,Ravi Kumar,Health Products,Tablet,Andhra Pradesh,Kochi,North-West India,2023-02-18
+928,Arjun Reddy,Automotive Accessories,Bed Mattress,Tamil Nadu,Guntur,North-East India,2023-04-22
+929,Venkatesh Rao,Groceries,Wardrobe,Andhra Pradesh,Indore,East India,2023-12-22
+930,Arjun Reddy,Kitchenware,Headphones,Telangana,Bilaspur,North-East India,2023-06-03
+931,Ravi Kumar,Books,Sandals,Kerala,Hubballi,West India,2023-07-02
+932,Venkatesh Rao,Footwear,Electric Kettle,Chhattisgarh,Burhanpur,North-East India,2023-11-18
+933,Arjun Reddy,Toys,Pressure Cooker,Chhattisgarh,Tiruchirappalli,East India,2023-02-15
+934,Ravi Kumar,Kitchenware,Yoga Mat,Tamil Nadu,Durg,Central India,2023-05-18
+935,Karthik Iyer,Stationery,Smartphone,Karnataka,Mangaluru,North India,2023-10-22
+936,Venkatesh Rao,Home Appliances,Headphones,Tamil Nadu,Coimbatore,North-West India,2023-12-26
+937,Vijay Prakash,Automotive Accessories,Keyboard,Kerala,Korba,South India,2023-11-15
+938,Suresh Babu,Footwear,Dinner Set,Tamil Nadu,Belagavi,North-West India,2023-08-30
+939,Arjun Reddy,Garden Supplies,Jacket,Madhya Pradesh,Dharwad,North India,2023-07-27
+940,Mahesh Bhat,Garden Supplies,Sofa,Chhattisgarh,Guntur,North-East India,2023-12-03
+941,Suresh Babu,Books,Frying Pan,Telangana,Durg,North-East India,2023-04-04
+942,Anand Subramanian,Groceries,Baby Stroller,Kerala,Bilaspur,Central India,2023-02-28
+943,Venkatesh Rao,Groceries,Printer,Chhattisgarh,Erode,West India,2023-03-23
+944,Mahesh Bhat,Footwear,Microwave Oven,Andhra Pradesh,Dewas,South-West India,2023-11-21
+945,Mahesh Bhat,Furniture,Dumbbells,Tamil Nadu,Dharwad,Eastern Ghats Region,2023-07-15
+946,Arjun Reddy,Stationery,Bluetooth Speaker,Telangana,Raipur,North-West India,2023-02-27
+947,Venkatesh Rao,Electronics,Handbag,Chhattisgarh,Dharwad,North India,2023-01-31
+948,Vijay Prakash,Footwear,Mixer Grinder,Telangana,Rewa,West India,2023-04-05
+949,Karthik Iyer,Toys,Smartphone,Kerala,Dhamtari,North-West India,2023-07-20
+950,Venkatesh Rao,Home Appliances,USB Flash Drive,Kerala,Rajnandgaon,North India,2023-10-18
+951,Aayush Pateriya,Automotive Accessories,Baby Stroller,Tamil Nadu,Sehore,North-West India,2023-08-28
+952,Arjun Reddy,Sports Equipment,Cricket Bat,Madhya Pradesh,Kochi,South-East India,2023-09-11
+953,Vijay Prakash,Stationery,T-Shirt,Madhya Pradesh,Warangal,North-West India,2023-12-12
+954,Vijay Prakash,Pet Supplies,Jacket,Madhya Pradesh,Tiruchirappalli,East India,2023-09-13
+955,Venkatesh Rao,Clothing,Notebook,Telangana,Tiruchirappalli,North-West India,2023-04-25
+956,Mahesh Bhat,Electronics,Office Chair,Karnataka,Kozhikode,North-East India,2023-03-15
+957,Ravi Kumar,Furniture,Keyboard,Tamil Nadu,Salem,Eastern Ghats Region,2023-11-25
+958,Anand Subramanian,Clothing,Sunglasses,Tamil Nadu,Warangal,South India,2023-07-27
+959,Anand Subramanian,Mobile Accessories,Electric Kettle,Tamil Nadu,Bhilai,South India,2023-06-05
+960,Mahesh Bhat,Footwear,Sneakers,Chhattisgarh,Kurnool,North-East India,2023-03-10
+961,Ravi Kumar,Beauty Products,Water Bottle,Telangana,Khandwa,North-West India,2023-08-29
+962,Aayush Pateriya,Garden Supplies,Bluetooth Speaker,Madhya Pradesh,Satna,East India,2023-02-08
+963,Arjun Reddy,Footwear,Computer Mouse,Telangana,Madurai,East India,2023-10-30
+964,Mahesh Bhat,Mobile Accessories,Smartwatch,Karnataka,Jabalpur,East India,2023-06-20
+965,Ravi Kumar,Kitchenware,Microwave Oven,Karnataka,Dewas,Central India,2023-10-03
+966,Venkatesh Rao,Baby Products,Dinner Set,Chhattisgarh,Jagdalpur,North-East India,2023-11-01
+967,Ravi Kumar,Garden Supplies,Backpack,Telangana,Dharwad,South-West India,2023-09-24
+968,Mahesh Bhat,Beauty Products,Dumbbells,Kerala,Korba,North-West India,2023-05-07
+969,Karthik Iyer,Kitchenware,Keyboard,Tamil Nadu,Belagavi,North-West India,2023-12-12
+970,Anand Subramanian,Toys,Air Conditioner,Kerala,Mahasamund,South India,2023-08-20
+971,Suresh Babu,Books,Sneakers,Karnataka,Rajnandgaon,Eastern Ghats Region,2023-07-16
+972,Anand Subramanian,Pet Supplies,Cricket Bat,Telangana,Mangaluru,South-West India,2023-09-22
+973,Anand Subramanian,Pet Supplies,Backpack,Telangana,Gwalior,North-East India,2023-06-20
+974,Ravi Kumar,Books,Notebook,Madhya Pradesh,Ujjain,North-West India,2023-02-01
+975,Vijay Prakash,Books,Backpack,Andhra Pradesh,Gwalior,Central India,2023-08-29
+976,Aayush Pateriya,Beauty Products,Jacket,Madhya Pradesh,Bengaluru,Eastern Ghats Region,2024-01-01
+977,Karthik Iyer,Mobile Accessories,Keyboard,Karnataka,Hubballi,East India,2023-06-13
+978,Ravi Kumar,Beauty Products,Water Purifier,Andhra Pradesh,Bilaspur,West India,2023-05-03
+979,Mahesh Bhat,Pet Supplies,Pressure Cooker,Madhya Pradesh,Kozhikode,Eastern Ghats Region,2023-03-19
+980,Mahesh Bhat,Office Supplies,Air Conditioner,Telangana,Thiruvananthapuram,North-East India,2023-11-25
+981,Aayush Pateriya,Footwear,Air Conditioner,Karnataka,Sagar,Central India,2023-01-17
+982,Karthik Iyer,Pet Supplies,Office Chair,Kerala,Burhanpur,North-East India,2023-06-28
+983,Venkatesh Rao,Baby Products,Bluetooth Speaker,Telangana,Coimbatore,South-West India,2023-01-21
+984,Suresh Babu,Books,Keyboard,Tamil Nadu,Guntur,South India,2023-04-02
+985,Ravi Kumar,Office Supplies,Water Bottle,Kerala,Guntur,Central India,2023-01-09
+986,Ravi Kumar,Kitchenware,Wardrobe,Chhattisgarh,Vijayawada,South-West India,2023-01-01
+987,Ravi Kumar,Beauty Products,Smartwatch,Andhra Pradesh,Warangal,West India,2023-11-19
+988,Vijay Prakash,Jewelry,Water Purifier,Kerala,Kozhikode,North-East India,2023-10-02
+989,Ravi Kumar,Clothing,Notebook,Kerala,Khandwa,West India,2023-10-09
+990,Ravi Kumar,Furniture,Cricket Bat,Telangana,Rajnandgaon,Central India,2023-07-03
+991,Venkatesh Rao,Furniture,Cricket Bat,Andhra Pradesh,Kozhikode,North-East India,2023-09-08
+992,Karthik Iyer,Beauty Products,Smartphone,Andhra Pradesh,Guntur,West India,2023-05-25
+993,Vijay Prakash,Garden Supplies,Pressure Cooker,Madhya Pradesh,Bhopal,Eastern Ghats Region,2023-10-22
+994,Venkatesh Rao,Stationery,Wardrobe,Tamil Nadu,Dewas,South India,2023-02-16
+995,Aayush Pateriya,Garden Supplies,USB Flash Drive,Madhya Pradesh,Mahasamund,North-West India,2023-06-26
+996,Venkatesh Rao,Health Products,Pet Food,Kerala,Kozhikode,South India,2023-08-15
+997,Venkatesh Rao,Sports Equipment,Jeans,Andhra Pradesh,Dewas,West India,2023-02-11
+998,Venkatesh Rao,Baby Products,Notebook,Chhattisgarh,Thrissur,South India,2023-07-17
+999,Anand Subramanian,Garden Supplies,Dumbbells,Tamil Nadu,Bengaluru,Central India,2023-02-26
+1000,Vijay Prakash,Beauty Products,Football,Telangana,Kochi,North-East India,2023-12-28
+1001,Vijay Prakash,Jewelry,Handbag,Chhattisgarh,Udupi,South India,2023-12-24
+1002,Suresh Babu,Health Products,Jacket,Telangana,Ratlam,East India,2023-12-16
+1003,Arjun Reddy,Furniture,Pet Food,Chhattisgarh,Coimbatore,South-West India,2023-09-06
+1004,Anand Subramanian,Groceries,Wrist Watch,Tamil Nadu,Dharwad,North-West India,2023-07-22
+1005,Aayush Pateriya,Pet Supplies,Headphones,Karnataka,Chennai,North-West India,2023-10-01
+1006,Mahesh Bhat,Mobile Accessories,Office Chair,Karnataka,Hubballi,Central India,2023-01-03
+1007,Suresh Babu,Baby Products,Notebook,Telangana,Coimbatore,North India,2023-01-28
+1008,Arjun Reddy,Beauty Products,Yoga Mat,Tamil Nadu,Jagdalpur,North-East India,2023-10-07
+1009,Vijay Prakash,Footwear,Vacuum Cleaner,Telangana,Kozhikode,South India,2023-07-30
+1010,Arjun Reddy,Clothing,Electric Kettle,Tamil Nadu,Warangal,North India,2023-08-01
+1011,Venkatesh Rao,Mobile Accessories,Dining Table,Madhya Pradesh,Mangaluru,West India,2023-04-20
+1012,Mahesh Bhat,Books,Cookware Set,Chhattisgarh,Ratlam,North-West India,2023-08-17
+1013,Karthik Iyer,Beauty Products,Dog Leash,Kerala,Madurai,South India,2023-09-10
+1014,Anand Subramanian,Stationery,Wardrobe,Telangana,Kochi,North-West India,2023-06-05
+1015,Mahesh Bhat,Baby Products,Bluetooth Speaker,Madhya Pradesh,Erode,South India,2023-01-17
+1016,Ravi Kumar,Toys,Backpack,Telangana,Thiruvananthapuram,Central India,2023-08-20
+1017,Mahesh Bhat,Garden Supplies,Water Bottle,Telangana,Sagar,North India,2023-03-29
+1018,Ravi Kumar,Home Appliances,Notebook,Karnataka,Rewa,Central India,2023-07-12
+1019,Suresh Babu,Groceries,Water Purifier,Kerala,Vellore,North India,2023-02-19
+1020,Suresh Babu,Home Appliances,Vacuum Cleaner,Kerala,Bhopal,West India,2023-10-31
+1021,Arjun Reddy,Home Appliances,Bluetooth Speaker,Kerala,Indore,East India,2023-04-03
+1022,Anand Subramanian,Groceries,T-Shirt,Chhattisgarh,Satna,South India,2023-03-05
+1023,Suresh Babu,Footwear,USB Flash Drive,Chhattisgarh,Salem,South-East India,2023-12-07
+1024,Ravi Kumar,Garden Supplies,Football,Tamil Nadu,Bilaspur,North India,2023-01-26
+1025,Venkatesh Rao,Office Supplies,Air Conditioner,Telangana,Chhindwara,Eastern Ghats Region,2023-09-14
+1026,Aayush Pateriya,Baby Products,Wrist Watch,Karnataka,Guntur,South India,2023-10-07
+1027,Aayush Pateriya,Furniture,Water Bottle,Madhya Pradesh,Ratlam,North-West India,2023-01-08
+1028,Ravi Kumar,Stationery,T-Shirt,Telangana,Tiruchirappalli,East India,2023-03-02
+1029,Arjun Reddy,Groceries,Sunglasses,Chhattisgarh,Thrissur,North-East India,2023-05-03
+1030,Aayush Pateriya,Toys,Sofa,Kerala,Rewa,North-West India,2023-09-21
+1031,Anand Subramanian,Office Supplies,Computer Mouse,Madhya Pradesh,Burhanpur,South-East India,2023-05-06
+1032,Anand Subramanian,Sports Equipment,Microwave Oven,Kerala,Mahasamund,South-East India,2023-02-27
+1033,Anand Subramanian,Automotive Accessories,Dumbbells,Chhattisgarh,Belagavi,South India,2023-06-28
+1034,Venkatesh Rao,Beauty Products,Keyboard,Andhra Pradesh,Sehore,South-East India,2023-10-08
+1035,Venkatesh Rao,Groceries,Jeans,Madhya Pradesh,Khandwa,Central India,2023-05-18
+1036,Mahesh Bhat,Clothing,Bluetooth Speaker,Andhra Pradesh,Kochi,East India,2023-06-27
+1037,Anand Subramanian,Kitchenware,Office Chair,Telangana,Hubballi,South India,2023-08-12
+1038,Mahesh Bhat,Office Supplies,Water Purifier,Andhra Pradesh,Madurai,West India,2023-12-29
+1039,Venkatesh Rao,Baby Products,Microwave Oven,Andhra Pradesh,Indore,North India,2023-06-26
+1040,Ravi Kumar,Beauty Products,Bed Mattress,Andhra Pradesh,Visakhapatnam,Central India,2023-07-25
+1041,Mahesh Bhat,Baby Products,Dumbbells,Chhattisgarh,Indore,North-East India,2023-11-26
+1042,Mahesh Bhat,Mobile Accessories,Smartwatch,Kerala,Rajnandgaon,North-East India,2023-09-23
+1043,Vijay Prakash,Home Appliances,Jacket,Andhra Pradesh,Indore,South-West India,2023-01-27
+1044,Ravi Kumar,Electronics,Printer,Madhya Pradesh,Coimbatore,North India,2023-01-04
+1045,Suresh Babu,Home Appliances,Handbag,Andhra Pradesh,Sehore,South India,2023-04-18
+1046,Arjun Reddy,Baby Products,Notebook,Kerala,Raipur,North-East India,2023-06-10
+1047,Venkatesh Rao,Mobile Accessories,Smartphone,Tamil Nadu,Korba,North India,2023-06-12
+1048,Vijay Prakash,Baby Products,Mixer Grinder,Telangana,Durg,Eastern Ghats Region,2023-05-19
+1049,Karthik Iyer,Sports Equipment,Dog Leash,Telangana,Jagdalpur,North-East India,2023-06-04
+1050,Karthik Iyer,Clothing,Air Conditioner,Tamil Nadu,Rewa,North-East India,2023-02-23
+1051,Mahesh Bhat,Baby Products,Microwave Oven,Telangana,Kozhikode,South-West India,2023-02-20
+1052,Vijay Prakash,Home Appliances,Wardrobe,Madhya Pradesh,Khandwa,Eastern Ghats Region,2023-08-29
+1053,Ravi Kumar,Automotive Accessories,Handbag,Tamil Nadu,Thiruvananthapuram,South-East India,2023-08-07
+1054,Anand Subramanian,Mobile Accessories,Water Bottle,Chhattisgarh,Tiruchirappalli,Central India,2023-08-21
+1055,Aayush Pateriya,Mobile Accessories,Smartwatch,Andhra Pradesh,Dewas,North India,2023-10-06
+1056,Ravi Kumar,Groceries,Printer,Karnataka,Jabalpur,South India,2023-03-17
+1057,Arjun Reddy,Stationery,Dog Leash,Telangana,Indore,North India,2023-10-28
+1058,Aayush Pateriya,Kitchenware,T-Shirt,Kerala,Belagavi,Eastern Ghats Region,2023-11-22
+1059,Karthik Iyer,Jewelry,Cricket Bat,Tamil Nadu,Tiruchirappalli,East India,2023-01-27
+1060,Anand Subramanian,Garden Supplies,Wrist Watch,Karnataka,Mysuru,Eastern Ghats Region,2023-11-11
+1061,Aayush Pateriya,Office Supplies,Printer,Madhya Pradesh,Satna,South India,2023-05-15
+1062,Anand Subramanian,Clothing,Vacuum Cleaner,Tamil Nadu,Jabalpur,South India,2023-08-11
+1063,Ravi Kumar,Office Supplies,Vacuum Cleaner,Tamil Nadu,Vellore,South India,2023-02-07
+1064,Anand Subramanian,Health Products,Baby Stroller,Andhra Pradesh,Kozhikode,South-East India,2023-09-15
+1065,Karthik Iyer,Clothing,Water Purifier,Telangana,Madurai,West India,2023-01-21
+1066,Aayush Pateriya,Sports Equipment,Television,Karnataka,Chennai,South-West India,2023-04-08
+1067,Vijay Prakash,Office Supplies,Wallet,Madhya Pradesh,Gwalior,North India,2023-08-12
+1068,Venkatesh Rao,Electronics,Mixer Grinder,Tamil Nadu,Khandwa,South-East India,2023-05-22
+1069,Anand Subramanian,Health Products,Dinner Set,Tamil Nadu,Belagavi,Eastern Ghats Region,2023-01-09
+1070,Suresh Babu,Stationery,Wrist Watch,Tamil Nadu,Hyderabad,Central India,2023-06-16
+1071,Venkatesh Rao,Jewelry,Tablet,Andhra Pradesh,Mahasamund,South-West India,2023-06-10
+1072,Aayush Pateriya,Sports Equipment,Pressure Cooker,Madhya Pradesh,Indore,East India,2023-01-11
+1073,Mahesh Bhat,Kitchenware,Sandals,Karnataka,Bhopal,West India,2023-06-22
+1074,Aayush Pateriya,Footwear,Electric Kettle,Kerala,Kozhikode,North India,2023-05-04
+1075,Anand Subramanian,Beauty Products,Garden Hose,Karnataka,Chhindwara,South-East India,2023-05-14
+1076,Anand Subramanian,Clothing,Printer,Telangana,Mahasamund,Eastern Ghats Region,2023-08-29
+1077,Arjun Reddy,Sports Equipment,Jeans,Chhattisgarh,Durg,North-West India,2023-10-31
+1078,Mahesh Bhat,Beauty Products,Notebook,Telangana,Bilaspur,North India,2023-05-15
+1079,Suresh Babu,Automotive Accessories,Bluetooth Speaker,Kerala,Dewas,West India,2023-06-28
+1080,Mahesh Bhat,Health Products,Keyboard,Kerala,Bilaspur,Central India,2023-11-03
+1081,Venkatesh Rao,Electronics,Frying Pan,Andhra Pradesh,Erode,South-West India,2023-02-01
+1082,Suresh Babu,Garden Supplies,USB Flash Drive,Telangana,Mysuru,North India,2023-12-14
+1083,Aayush Pateriya,Kitchenware,Wrist Watch,Tamil Nadu,Guntur,South-West India,2023-03-15
+1084,Anand Subramanian,Sports Equipment,Headphones,Karnataka,Hyderabad,South-East India,2023-10-11
+1085,Aayush Pateriya,Footwear,Sneakers,Kerala,Jabalpur,South India,2023-11-01
+1086,Venkatesh Rao,Automotive Accessories,Refrigerator,Andhra Pradesh,Madurai,North-West India,2023-12-05
+1087,Arjun Reddy,Footwear,Microwave Oven,Tamil Nadu,Burhanpur,South-East India,2023-09-15
+1088,Ravi Kumar,Garden Supplies,Microwave Oven,Madhya Pradesh,Mahasamund,Eastern Ghats Region,2023-04-21
+1089,Karthik Iyer,Books,Yoga Mat,Andhra Pradesh,Dewas,Central India,2023-09-27
+1090,Mahesh Bhat,Baby Products,Mixer Grinder,Chhattisgarh,Sagar,North-West India,2023-03-25
+1091,Aayush Pateriya,Home Appliances,Wrist Watch,Andhra Pradesh,Korba,Eastern Ghats Region,2023-07-23
+1092,Aayush Pateriya,Office Supplies,Mixer Grinder,Telangana,Dewas,North-East India,2023-04-14
+1093,Suresh Babu,Health Products,Washing Machine,Kerala,Rajnandgaon,South-West India,2023-05-12
+1094,Aayush Pateriya,Stationery,Computer Mouse,Karnataka,Warangal,Eastern Ghats Region,2023-10-15
+1095,Karthik Iyer,Garden Supplies,Sandals,Chhattisgarh,Kochi,North-East India,2023-02-13
+1096,Ravi Kumar,Automotive Accessories,Yoga Mat,Telangana,Tiruchirappalli,North India,2023-12-21
+1097,Venkatesh Rao,Baby Products,Washing Machine,Chhattisgarh,Chhindwara,East India,2023-07-05
+1098,Arjun Reddy,Kitchenware,Cricket Bat,Karnataka,Thiruvananthapuram,South India,2023-09-14
+1099,Aayush Pateriya,Clothing,Tennis Racket,Karnataka,Hubballi,South-East India,2023-12-09
+1100,Mahesh Bhat,Baby Products,Water Bottle,Chhattisgarh,Vellore,South India,2023-09-26
